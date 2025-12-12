@@ -8,7 +8,7 @@ class AIClient:
         
         genai.configure(api_key=api_key)
         # using Flash for speed and efficiency on large text blocks
-        self.model = genai.GenerativeModel('gemini-1.5-flash')
+        self.model = genai.GenerativeModel('gemini-1.5-flash-001')
 
     def extract_words(self, text_blob):
         """
