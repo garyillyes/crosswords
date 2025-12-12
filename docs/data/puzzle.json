@@ -1,0 +1,208 @@
+{
+  "width": 21,
+  "height": 19,
+  "words": [
+    {
+      "word": "ESTIMATE",
+      "clue": "The financial prediction Amrep failed to meet (8)",
+      "startX": 4,
+      "startY": 10,
+      "direction": "horizontal",
+      "length": 8
+    },
+    {
+      "word": "LITHIUM",
+      "clue": "Metal focused on by Atlas offering stock",
+      "startX": 10,
+      "startY": 8,
+      "direction": "vertical",
+      "length": 7
+    },
+    {
+      "word": "EQUITY",
+      "clue": "CDT's focus, relating to corporate ownership",
+      "startX": 8,
+      "startY": 13,
+      "direction": "horizontal",
+      "length": 6
+    },
+    {
+      "word": "RAISES",
+      "clue": "Action UBS takes on price targets frequently",
+      "startX": 4,
+      "startY": 6,
+      "direction": "vertical",
+      "length": 6
+    },
+    {
+      "word": "UBS",
+      "clue": "Swiss banking giant maintaining ratings",
+      "startX": 2,
+      "startY": 11,
+      "direction": "horizontal",
+      "length": 3
+    },
+    {
+      "word": "REVENUE",
+      "clue": "Top line financial metric for Grande Group",
+      "startX": 8,
+      "startY": 12,
+      "direction": "vertical",
+      "length": 7
+    },
+    {
+      "word": "NEUTRAL",
+      "clue": "Analyst rating recommending neither buying nor selling",
+      "startX": 0,
+      "startY": 6,
+      "direction": "horizontal",
+      "length": 7
+    },
+    {
+      "word": "SHIP",
+      "clue": "Vessel raided carrying illicit cargo",
+      "startX": 2,
+      "startY": 8,
+      "direction": "horizontal",
+      "length": 4
+    },
+    {
+      "word": "CLASS",
+      "clue": "Millions of ticket buyers involved in this legal action",
+      "startX": 9,
+      "startY": 8,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "COAL",
+      "clue": "Warrior Met's mined commodity",
+      "startX": 6,
+      "startY": 3,
+      "direction": "vertical",
+      "length": 4
+    },
+    {
+      "word": "OFFER",
+      "clue": "ChargePoint files for prospectus to resell shares in this way",
+      "startX": 5,
+      "startY": 18,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "DENIAL",
+      "clue": "Allegation regarding workers' access to privileges",
+      "startX": 0,
+      "startY": 4,
+      "direction": "vertical",
+      "length": 6
+    },
+    {
+      "word": "RIGHTS",
+      "clue": "Workers' entitlements subject to review at Mondelez",
+      "startX": 13,
+      "startY": 3,
+      "direction": "vertical",
+      "length": 6
+    },
+    {
+      "word": "BUY",
+      "clue": "Analyst's optimistic recommendation for shares",
+      "startX": 13,
+      "startY": 11,
+      "direction": "vertical",
+      "length": 3
+    },
+    {
+      "word": "CHINA",
+      "clue": "Country of origin for cargo seized by U.S. Forces",
+      "startX": 5,
+      "startY": 16,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "TARGET",
+      "clue": "The specific price aim set by analysts",
+      "startX": 13,
+      "startY": 7,
+      "direction": "horizontal",
+      "length": 6
+    },
+    {
+      "word": "CARGO",
+      "clue": "Goods seized en route to Tehran (5)",
+      "startX": 6,
+      "startY": 3,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "DEBT",
+      "clue": "Vicarious Surgical might issue this financial obligation",
+      "startX": 0,
+      "startY": 4,
+      "direction": "horizontal",
+      "length": 4
+    },
+    {
+      "word": "SALES",
+      "clue": "Amrep's Q2 revenue figure that missed expectations",
+      "startX": 17,
+      "startY": 4,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "SHARES",
+      "clue": "4.7M units subject to resale by securityholders",
+      "startX": 15,
+      "startY": 5,
+      "direction": "horizontal",
+      "length": 6
+    },
+    {
+      "word": "IRAN",
+      "clue": "Destination nation for seized goods from China",
+      "startX": 12,
+      "startY": 3,
+      "direction": "horizontal",
+      "length": 4
+    },
+    {
+      "word": "STOCK",
+      "clue": "Atlas Lithium is offering this security to the market",
+      "startX": 20,
+      "startY": 5,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "TOWER",
+      "clue": "American infrastructure company where $1000 grew significantly",
+      "startX": 10,
+      "startY": 2,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "ENERGY",
+      "clue": "Sector covering Peabody and Coterra",
+      "startX": 8,
+      "startY": 0,
+      "direction": "vertical",
+      "length": 6
+    },
+    {
+      "word": "MEXICO",
+      "clue": "Nation facing review over alleged labor rights denial",
+      "startX": 7,
+      "startY": 0,
+      "direction": "horizontal",
+      "length": 6
+    }
+  ],
+  "generated_at_utc": "2025-12-12T22:00:23.335628",
+  "title": "Daily News Crossword: 2025-12-12"
+}
