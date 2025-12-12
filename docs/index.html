@@ -15,6 +15,10 @@
             background-color: #bfdbfe;
         }
 
+        .highlight-word {
+            background-color: #fef08a !important;
+        }
+
         /* Hide numbers inside the input */
         .clue-number {
             position: absolute;
@@ -157,7 +161,9 @@
         function addClueToList(wordObj, num) {
             const li = document.createElement('li');
             li.innerHTML = `<span class="font-bold text-blue-600">${num}.</span> ${wordObj.clue}`;
-            li.dataset.wordIndex = num; // simplified linking
+            li.dataset.wordIndex = num;
+            li.className = "cursor-pointer hover:bg-blue-50 p-1 rounded transition-colors";
+            li.addEventListener('click', () => highlightWordOnGrid(wordObj));
 
             if (wordObj.direction === 'horizontal') {
                 document.getElementById('clues-across').appendChild(li);
@@ -187,6 +193,22 @@
 
         function highlightClue(x, y) {
             // Logic to highlight the relevant list item in the side panel
+        }
+
+        function highlightWordOnGrid(wordObj) {
+            // Clear previous highlights
+            document.querySelectorAll('.cell-input').forEach(el => el.classList.remove('highlight-word'));
+
+            let x = wordObj.startX;
+            let y = wordObj.startY;
+
+            for (let i = 0; i < wordObj.length; i++) {
+                const input = document.querySelector(`.cell-input[data-x="${x}"][data-y="${y}"]`);
+                if (input) input.classList.add('highlight-word');
+
+                if (wordObj.direction === 'horizontal') x++;
+                else y++;
+            }
         }
 
         loadPuzzle();
