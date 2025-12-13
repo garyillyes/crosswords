@@ -160,10 +160,35 @@
 
         function addClueToList(wordObj, num) {
             const li = document.createElement('li');
-            li.innerHTML = `<span class="font-bold text-blue-600">${num}.</span> ${wordObj.clue}`;
-            li.dataset.wordIndex = num;
             li.className = "cursor-pointer hover:bg-blue-50 p-1 rounded transition-colors";
+
+            // Layout: Clue + Hint Button on top, Definition hidden below
+            li.innerHTML = `
+                <div class="flex flex-col">
+                    <div class="flex justify-between items-start">
+                        <span>
+                            <span class="font-bold text-blue-600">${num}.</span> ${wordObj.clue}
+                        </span>
+                        <button class="ml-2 text-slate-400 hover:text-blue-600 text-xs hint-btn" title="Show Definition">❓</button>
+                    </div>
+                    <div class="hidden text-xs text-slate-500 mt-1 italic hint-text pl-4 border-l-2 border-slate-300">
+                        ${wordObj.definition || 'No definition available.'}
+                    </div>
+                </div>
+            `;
+
+            li.dataset.wordIndex = num;
+
+            // Highlight click (on the whole LI)
             li.addEventListener('click', () => highlightWordOnGrid(wordObj));
+
+            // Hint toggle (stop propagation)
+            const hintBtn = li.querySelector('.hint-btn');
+            hintBtn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                const hintText = li.querySelector('.hint-text');
+                hintText.classList.toggle('hidden');
+            });
 
             if (wordObj.direction === 'horizontal') {
                 document.getElementById('clues-across').appendChild(li);

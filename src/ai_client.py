@@ -25,9 +25,10 @@ class AIClient:
         2. Words must be between 3 and 10 letters long.
         3. No spaces, no hyphens, no special characters.
         4. For each word, write a crossword clue. The clue should be witty, cryptic, or fact-based relative to the news.
-        5. Return ONLY valid JSON in this format:
+        5. For each word, provide a standard dictionary definition. IMPORTANT: The definition MUST NOT contain the word itself or any variation of it.
+        6. Return ONLY valid JSON in this format:
         [
-          {{"word": "MARKET", "clue": "Place where stocks are traded"}},
+          {"word": "MARKET", "clue": "Place where stocks are traded", "definition": "A regular gathering of people for the purchase and sale of provisions, livestock, and other commodities."},
           ...
         ]
         
