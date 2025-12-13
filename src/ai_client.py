@@ -28,7 +28,7 @@ class AIClient:
         5. For each word, provide a standard dictionary definition. IMPORTANT: The definition MUST NOT contain the word itself or any variation of it.
         6. Return ONLY valid JSON in this format:
         [
-          {"word": "MARKET", "clue": "Place where stocks are traded", "definition": "A regular gathering of people for the purchase and sale of provisions, livestock, and other commodities."},
+          {{"word": "MARKET", "clue": "Place where stocks are traded", "definition": "A regular gathering of people for the purchase and sale of provisions, livestock, and other commodities."}},
           ...
         ]
         
