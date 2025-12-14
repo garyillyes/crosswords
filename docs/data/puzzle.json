@@ -1,233 +1,233 @@
 {
-  "width": 28,
-  "height": 27,
+  "width": 22,
+  "height": 22,
   "words": [
     {
-      "word": "ESTRANGED",
-      "clue": "Separated or alienated, like Musk's relationship with his daughter.",
-      "definition": "No longer close or affectionate to someone; alienated.",
-      "startX": 14,
-      "startY": 12,
+      "word": "BULLDOZER",
+      "clue": "Suleyman's description of Elon Musk's capabilities.",
+      "definition": "A large, powerful tractor having a vertical blade at the front for moving earth or clearing ground.",
+      "startX": 2,
+      "startY": 17,
       "direction": "horizontal",
       "length": 9
     },
     {
-      "word": "STOCKS",
-      "clue": "Things Buffett loves to increase; often traded in a pool.",
-      "definition": "Shares representing ownership in a company, typically bought and sold on an exchange.",
-      "startX": 16,
-      "startY": 11,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "ACQUIRE",
-      "clue": "To gain control of; what Tether wants to do to Juventus.",
-      "definition": "To come into possession of something, usually assets or property.",
-      "startX": 18,
+      "word": "GLOBAL",
+      "clue": "Word describing the AI supply chain the Pax Initiative aims to secure.",
+      "definition": "Relating to the entire world; worldwide.",
+      "startX": 5,
       "startY": 12,
       "direction": "vertical",
-      "length": 7
-    },
-    {
-      "word": "MARKET",
-      "clue": "Strength hasn't translated into political momentum, says O'Leary.",
-      "definition": "A place where securities are exchanged, or a region regarded as having potential customers.",
-      "startX": 14,
-      "startY": 8,
-      "direction": "vertical",
       "length": 6
     },
     {
-      "word": "FEDERAL",
-      "clue": "Level of government whose union employees had rights restored.",
-      "definition": "Of or relating to a central government, as opposed to local or state administration.",
-      "startX": 22,
-      "startY": 10,
-      "direction": "vertical",
-      "length": 7
-    },
-    {
-      "word": "MOMENTUM",
-      "clue": "Political speed desired by Republicans, currently lacking.",
-      "definition": "The force or speed of movement; impetus gained by a moving object.",
-      "startX": 7,
-      "startY": 8,
-      "direction": "horizontal",
-      "length": 8
-    },
-    {
-      "word": "WORKERS",
-      "clue": "Those who powered the historic run, getting thank-you notes.",
-      "definition": "Individuals who perform jobs, especially physical or manual labor, for wages.",
-      "startX": 10,
-      "startY": 16,
-      "direction": "horizontal",
-      "length": 7
-    },
-    {
-      "word": "CRYPTO",
-      "clue": "Digital asset class that Tether belongs to.",
-      "definition": "A type of currency that is entirely virtual and secured by cryptography.",
-      "startX": 12,
-      "startY": 4,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "UKRAINE",
-      "clue": "Nation Fico promised to block EU military aid for.",
-      "definition": "A large country in Eastern Europe, currently dealing with a major conflict.",
-      "startX": 13,
-      "startY": 15,
-      "direction": "vertical",
-      "length": 7
-    },
-    {
-      "word": "ECONOMIC",
-      "clue": "Pertaining to finance and trade; Trump's disputed record.",
-      "definition": "Relating to the system of production, distribution, and consumption of goods and services.",
-      "startX": 5,
-      "startY": 4,
-      "direction": "horizontal",
-      "length": 8
-    },
-    {
-      "word": "TETHER",
-      "clue": "Firm making a $1 billion play for Juventus.",
-      "definition": "A rope or chain used to confine an animal to a certain area; also a stablecoin name.",
-      "startX": 5,
-      "startY": 0,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "SUCCESS",
-      "clue": "The achievement of Swift's record-breaking tour.",
-      "definition": "The favorable or desired outcome of an attempt or endeavor.",
+      "word": "SAFETY",
+      "clue": "Primary concern regarding autonomous vehicle features and FSD.",
+      "definition": "The condition of being protected from or unlikely to cause danger, risk, or injury.",
       "startX": 9,
-      "startY": 21,
+      "startY": 14,
+      "direction": "vertical",
+      "length": 6
+    },
+    {
+      "word": "PLAYERS",
+      "clue": "NBA professionals who struggle financially post-retirement.",
+      "definition": "Individuals who take part in a game or sport.",
+      "startX": 7,
+      "startY": 15,
       "direction": "horizontal",
       "length": 7
     },
     {
-      "word": "SENATE",
-      "clue": "Upper chamber that Sanders urges to pass the measure.",
-      "definition": "A deliberative assembly, often the upper house of a legislature.",
-      "startX": 17,
-      "startY": 18,
+      "word": "PRONE",
+      "clue": "FSD systems are characterized as being this way to errors.",
+      "definition": "Likely or liable to suffer from, do, or experience something unpleasant or regrettable.",
+      "startX": 11,
+      "startY": 11,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "HUSTLES",
+      "clue": "Side enterprises O'Leary says social media makes simpler.",
+      "definition": "Busy activity; informal businesses intended to earn money.",
+      "startX": 13,
+      "startY": 9,
+      "direction": "vertical",
+      "length": 7
+    },
+    {
+      "word": "SILICA",
+      "clue": "Sand ingredient secured by Pax treaty nations.",
+      "definition": "A hard, unreactive, crystalline compound that exists commonly as quartz and is the principal component of sand and many rocks.",
+      "startX": 13,
+      "startY": 11,
       "direction": "horizontal",
       "length": 6
     },
     {
-      "word": "BINDING",
-      "clue": "All-cash proposal described as such, legally speaking.",
-      "definition": "An obligation or agreement that must be followed because of legal or moral force.",
-      "startX": 20,
+      "word": "LIDAR",
+      "clue": "Self-driving sensor that avoids Tesla's cameras.",
+      "definition": "A system using pulsed laser light to measure ranges (variable distances) to the Earth.",
+      "startX": 4,
+      "startY": 17,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "PROTECT",
+      "clue": "Action urged to safeguard sensitive data from public AI chatbots.",
+      "definition": "Keep safe from harm or injury.",
+      "startX": 17,
       "startY": 6,
       "direction": "vertical",
       "length": 7
     },
     {
-      "word": "REVENUE",
-      "clue": "Income stream from tariffs that saw a decline.",
-      "definition": "The total amount of money received by a company or government, especially from sales or taxes.",
-      "startX": 8,
+      "word": "TRUMP",
+      "clue": "Former president whose troop deployment order was reversed by a court.",
+      "definition": "The 45th chief executive of the United States.",
+      "startX": 3,
+      "startY": 21,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "GUARD",
+      "clue": "Military force ordered out of Los Angeles by court mandate.",
+      "definition": "A person or group that defends or watches over something.",
+      "startX": 0,
+      "startY": 19,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "POTASH",
+      "clue": "Belarus export item released from US sanctions after prisoner release.",
+      "definition": "A soluble salt containing potassium, used as a fertilizer or in making soap.",
+      "startX": 16,
+      "startY": 8,
+      "direction": "horizontal",
+      "length": 6
+    },
+    {
+      "word": "EXPERTS",
+      "clue": "Financial gurus who warned against family money pitfalls.",
+      "definition": "People acknowledged as authorities in a specific subject area.",
+      "startX": 15,
+      "startY": 6,
+      "direction": "horizontal",
+      "length": 7
+    },
+    {
+      "word": "RIVIAN",
+      "clue": "EV maker charting its path away from camera-only autonomy.",
+      "definition": "An American automobile manufacturer specializing in electric vehicles.",
+      "startX": 12,
+      "startY": 15,
+      "direction": "vertical",
+      "length": 6
+    },
+    {
+      "word": "FATHER",
+      "clue": "He retroactively charged interest on a large gift, per the Ramsey call.",
+      "definition": "A male parent of a child or animal.",
+      "startX": 15,
+      "startY": 2,
+      "direction": "vertical",
+      "length": 6
+    },
+    {
+      "word": "BONUSES",
+      "clue": "$100 million sums offered in the aggressive AI hiring fray.",
+      "definition": "Additional payments made to employees, often as a reward for good performance.",
+      "startX": 21,
       "startY": 0,
       "direction": "vertical",
       "length": 7
     },
     {
-      "word": "QUARTER",
-      "clue": "Three months, or 25 cents.",
-      "definition": "A specific period of three consecutive months in a year, often used for financial reporting.",
-      "startX": 20,
-      "startY": 16,
-      "direction": "vertical",
-      "length": 7
-    },
-    {
-      "word": "BRUSSELS",
-      "clue": "Location of the upcoming summit where Fico will declare his position.",
-      "definition": "The capital city of Belgium, frequently serving as the headquarters for the European Union.",
-      "startX": 9,
-      "startY": 18,
-      "direction": "vertical",
-      "length": 8
-    },
-    {
-      "word": "INVESTED",
-      "clue": "Money put into Coeur Mining 10 years ago.",
-      "definition": "To commit capital in the expectation of financial gain.",
-      "startX": 19,
-      "startY": 8,
+      "word": "DATA",
+      "clue": "Sensitive information warned against sharing with public AI.",
+      "definition": "Facts and statistics collected together for reference or analysis.",
+      "startX": 12,
+      "startY": 3,
       "direction": "horizontal",
-      "length": 8
+      "length": 4
     },
     {
-      "word": "HOUSING",
-      "clue": "Sector where costs still bite voters, despite O'Leary's complaints.",
-      "definition": "Dwellings, apartments, and structures provided for people to reside in.",
-      "startX": 15,
-      "startY": 18,
-      "direction": "vertical",
-      "length": 7
-    },
-    {
-      "word": "REVERSE",
-      "clue": "Action taken by Trump admin regarding Brazilian judge's sanctions.",
-      "definition": "To move backward; to change something to the opposite.",
-      "startX": 10,
-      "startY": 7,
-      "direction": "vertical",
-      "length": 7
-    },
-    {
-      "word": "SANCTIONS",
-      "clue": "Official restrictions or penalties, like those lifted on a Brazilian judge.",
-      "definition": "Measures taken by a nation or group of nations to force another government to comply with certain laws or rules.",
-      "startX": 11,
-      "startY": 18,
-      "direction": "vertical",
-      "length": 9
-    },
-    {
-      "word": "TRADING",
-      "clue": "Halts announced repeatedly due to pending news.",
-      "definition": "The activity of buying, selling, or exchanging commodities, securities, or services.",
+      "word": "SKILLS",
+      "clue": "Hiring priority demanded by BlackRock to ensure AI fluency.",
+      "definition": "Proficiencies acquired through training or experience.",
       "startX": 20,
+      "startY": 8,
+      "direction": "vertical",
+      "length": 6
+    },
+    {
+      "word": "DELAY",
+      "clue": "Washington weighs one for the TikTok divestment timeline.",
+      "definition": "A situation in which something is postponed or put off.",
+      "startX": 15,
+      "startY": 9,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "FILING",
+      "clue": "Action preceding Chapter 11 for the Hollywood startup.",
+      "definition": "The action of submitting a document, such as a legal petition, to an authority.",
+      "startX": 3,
+      "startY": 13,
+      "direction": "horizontal",
+      "length": 6
+    },
+    {
+      "word": "HEALTH",
+      "clue": "Insurance costs that Schumer calls Trump's response to 'pathetic.'",
+      "definition": "The state of being free from illness or injury.",
+      "startX": 8,
+      "startY": 9,
+      "direction": "horizontal",
+      "length": 6
+    },
+    {
+      "word": "CONFLICT",
+      "clue": "Situation in Ukraine that Trump warns could escalate to a world war.",
+      "definition": "A serious disagreement or argument, typically a protracted one.",
+      "startX": 10,
       "startY": 20,
       "direction": "horizontal",
-      "length": 7
+      "length": 8
     },
     {
-      "word": "TARIFFS",
-      "clue": "Import taxes that caused revenue to fall this April.",
-      "definition": "A duty imposed by a government on imported or exported goods.",
-      "startX": 21,
-      "startY": 15,
+      "word": "CUBAN",
+      "clue": "Billionaire investor warning AI determines corporate survival.",
+      "definition": "A citizen or inhabitant of the island nation near the Caribbean Sea.",
+      "startX": 17,
+      "startY": 2,
       "direction": "horizontal",
-      "length": 7
+      "length": 5
     },
     {
-      "word": "MILLION",
-      "clue": "Eight hundred thirty of these dollars raked in by Berkshire's bet.",
-      "definition": "The number equivalent to the product of a thousand and a thousand.",
-      "startX": 6,
-      "startY": 24,
-      "direction": "horizontal",
-      "length": 7
+      "word": "TALENT",
+      "clue": "Commodity fought over fiercely by Meta and Microsoft.",
+      "definition": "Natural aptitude or skill; exceptional ability.",
+      "startX": 13,
+      "startY": 2,
+      "direction": "vertical",
+      "length": 6
     },
     {
-      "word": "BONUSES",
-      "clue": "Extra pay given to Eras Tour crew, feels like Christmas.",
-      "definition": "Sums of money paid to employees in addition to their regular salary, often as a reward for performance.",
-      "startX": 0,
-      "startY": 1,
-      "direction": "horizontal",
-      "length": 7
+      "word": "COSTS",
+      "clue": "Financial burden that Rivian says has plunged for certain sensors.",
+      "definition": "An amount that must be paid or spent to get something.",
+      "startX": 17,
+      "startY": 17,
+      "direction": "vertical",
+      "length": 5
     }
   ],
-  "generated_at_utc": "2025-12-13T10:28:59.067739",
-  "title": "Daily News Crossword: 2025-12-13"
+  "generated_at_utc": "2025-12-14T08:21:28.827647",
+  "title": "Daily News Crossword: 2025-12-14"
 }
