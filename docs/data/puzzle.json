@@ -1,233 +1,233 @@
 {
-  "width": 22,
-  "height": 22,
+  "width": 24,
+  "height": 16,
   "words": [
     {
-      "word": "BULLDOZER",
-      "clue": "Suleyman's description of Elon Musk's capabilities.",
-      "definition": "A large, powerful tractor having a vertical blade at the front for moving earth or clearing ground.",
-      "startX": 2,
-      "startY": 17,
+      "word": "GROWTH",
+      "clue": "Expanding operations, a target for Equinox Gold and iRobot.",
+      "definition": "The process of increasing in size, frequency, or degree; development toward maturity or achievement.",
+      "startX": 12,
+      "startY": 9,
       "direction": "horizontal",
-      "length": 9
-    },
-    {
-      "word": "GLOBAL",
-      "clue": "Word describing the AI supply chain the Pax Initiative aims to secure.",
-      "definition": "Relating to the entire world; worldwide.",
-      "startX": 5,
-      "startY": 12,
-      "direction": "vertical",
       "length": 6
     },
     {
-      "word": "SAFETY",
-      "clue": "Primary concern regarding autonomous vehicle features and FSD.",
-      "definition": "The condition of being protected from or unlikely to cause danger, risk, or injury.",
-      "startX": 9,
-      "startY": 14,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "PLAYERS",
-      "clue": "NBA professionals who struggle financially post-retirement.",
-      "definition": "Individuals who take part in a game or sport.",
-      "startX": 7,
-      "startY": 15,
-      "direction": "horizontal",
-      "length": 7
-    },
-    {
-      "word": "PRONE",
-      "clue": "FSD systems are characterized as being this way to errors.",
-      "definition": "Likely or liable to suffer from, do, or experience something unpleasant or regrettable.",
-      "startX": 11,
-      "startY": 11,
-      "direction": "vertical",
-      "length": 5
-    },
-    {
-      "word": "HUSTLES",
-      "clue": "Side enterprises O'Leary says social media makes simpler.",
-      "definition": "Busy activity; informal businesses intended to earn money.",
-      "startX": 13,
+      "word": "HUB",
+      "clue": "Central point of EV production established in Malaysia.",
+      "definition": "The effective center of an activity, region, or network.",
+      "startX": 17,
       "startY": 9,
       "direction": "vertical",
-      "length": 7
+      "length": 3
     },
     {
-      "word": "SILICA",
-      "clue": "Sand ingredient secured by Pax treaty nations.",
-      "definition": "A hard, unreactive, crystalline compound that exists commonly as quartz and is the principal component of sand and many rocks.",
+      "word": "ENERGY",
+      "clue": "Power source infrastructure struggling to keep up with AI needs.",
+      "definition": "The strength and vitality required for sustained physical or mental activity; usable power derived from physical or chemical resources.",
       "startX": 13,
-      "startY": 11,
-      "direction": "horizontal",
-      "length": 6
-    },
-    {
-      "word": "LIDAR",
-      "clue": "Self-driving sensor that avoids Tesla's cameras.",
-      "definition": "A system using pulsed laser light to measure ranges (variable distances) to the Earth.",
-      "startX": 4,
-      "startY": 17,
-      "direction": "vertical",
-      "length": 5
-    },
-    {
-      "word": "PROTECT",
-      "clue": "Action urged to safeguard sensitive data from public AI chatbots.",
-      "definition": "Keep safe from harm or injury.",
-      "startX": 17,
       "startY": 6,
       "direction": "vertical",
-      "length": 7
-    },
-    {
-      "word": "TRUMP",
-      "clue": "Former president whose troop deployment order was reversed by a court.",
-      "definition": "The 45th chief executive of the United States.",
-      "startX": 3,
-      "startY": 21,
-      "direction": "horizontal",
-      "length": 5
-    },
-    {
-      "word": "GUARD",
-      "clue": "Military force ordered out of Los Angeles by court mandate.",
-      "definition": "A person or group that defends or watches over something.",
-      "startX": 0,
-      "startY": 19,
-      "direction": "horizontal",
-      "length": 5
-    },
-    {
-      "word": "POTASH",
-      "clue": "Belarus export item released from US sanctions after prisoner release.",
-      "definition": "A soluble salt containing potassium, used as a fertilizer or in making soap.",
-      "startX": 16,
-      "startY": 8,
-      "direction": "horizontal",
       "length": 6
     },
     {
-      "word": "EXPERTS",
-      "clue": "Financial gurus who warned against family money pitfalls.",
-      "definition": "People acknowledged as authorities in a specific subject area.",
-      "startX": 15,
+      "word": "SHARE",
+      "clue": "Repurchase unit, maybe 800M of them by Ferrovial.",
+      "definition": "One of the equal parts into which a company's capital is divided, entitling the holder to a proportion of the profits.",
+      "startX": 9,
       "startY": 6,
       "direction": "horizontal",
-      "length": 7
+      "length": 5
     },
     {
-      "word": "RIVIAN",
-      "clue": "EV maker charting its path away from camera-only autonomy.",
-      "definition": "An American automobile manufacturer specializing in electric vehicles.",
-      "startX": 12,
-      "startY": 15,
+      "word": "LAUNCH",
+      "clue": "Send a specific Electron vehicle into space.",
+      "definition": "To propel a device or vessel with great force, often upwards into the air or space.",
+      "startX": 10,
+      "startY": 1,
       "direction": "vertical",
       "length": 6
     },
     {
-      "word": "FATHER",
-      "clue": "He retroactively charged interest on a large gift, per the Ramsey call.",
-      "definition": "A male parent of a child or animal.",
-      "startX": 15,
+      "word": "TRADE",
+      "clue": "Commerce term used by a Desk that exits the Index.",
+      "definition": "The action of buying and selling goods and services; exchange.",
+      "startX": 8,
       "startY": 2,
-      "direction": "vertical",
-      "length": 6
+      "direction": "horizontal",
+      "length": 5
     },
     {
-      "word": "BONUSES",
-      "clue": "$100 million sums offered in the aggressive AI hiring fray.",
-      "definition": "Additional payments made to employees, often as a reward for good performance.",
-      "startX": 21,
+      "word": "ACTOR",
+      "clue": "Hollywood professional found dead at a Brentwood residence.",
+      "definition": "A person whose profession is the depiction of characters in plays, films, or television.",
+      "startX": 8,
       "startY": 0,
       "direction": "vertical",
-      "length": 7
+      "length": 5
     },
     {
-      "word": "DATA",
-      "clue": "Sensitive information warned against sharing with public AI.",
-      "definition": "Facts and statistics collected together for reference or analysis.",
-      "startX": 12,
-      "startY": 3,
+      "word": "STUDY",
+      "clue": "PERSEUS clinical research did not meet its primary goal.",
+      "definition": "The careful investigation or examination of a subject or phenomenon.",
+      "startX": 9,
+      "startY": 6,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "CHAIR",
+      "clue": "High seat potentially sought by Kevin Hassett (Fed position).",
+      "definition": "A position of authority, often presiding over a meeting or committee; also, a piece of furniture for sitting.",
+      "startX": 4,
+      "startY": 4,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "FOCUS",
+      "clue": "Primary point of attention for earnings watchers like HYFT.",
+      "definition": "The center of interest or activity; concentrated attention.",
+      "startX": 4,
+      "startY": 2,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "PRINT",
+      "clue": "Typeface report expected for Q1 from Jabil.",
+      "definition": "The official release of a company's financial results, often referring specifically to earnings figures.",
+      "startX": 5,
+      "startY": 7,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "PHASE",
+      "clue": "Clinical trial stage, RINGSIDE is 3.",
+      "definition": "A distinct period or stage in a process of change or development.",
+      "startX": 5,
+      "startY": 7,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "DEATH",
+      "clue": "End outcome reduced by 54% in a recent J&J trial.",
+      "definition": "The permanent cessation of all biological functions that sustain an organism.",
+      "startX": 1,
+      "startY": 8,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "MEET",
+      "clue": "Achieve required expectations for a drug endpoint.",
+      "definition": "To satisfy or fulfill a requirement or condition.",
+      "startX": 16,
+      "startY": 6,
+      "direction": "vertical",
+      "length": 4
+    },
+    {
+      "word": "DEAL",
+      "clue": "Acquisition agreement for SpectraWAVE, terms undisclosed.",
+      "definition": "An agreement entered into by two or more parties for the purpose of trade or mutual advantage.",
+      "startX": 2,
+      "startY": 7,
+      "direction": "vertical",
+      "length": 4
+    },
+    {
+      "word": "DEBT",
+      "clue": "Financial obligation Equinox aims to repay after the sale.",
+      "definition": "A sum of money that is owed or due.",
+      "startX": 15,
+      "startY": 11,
       "direction": "horizontal",
       "length": 4
     },
     {
-      "word": "SKILLS",
-      "clue": "Hiring priority demanded by BlackRock to ensure AI fluency.",
-      "definition": "Proficiencies acquired through training or experience.",
-      "startX": 20,
-      "startY": 8,
+      "word": "TRUMP",
+      "clue": "Former president whose opinion was downplayed regarding rates.",
+      "definition": "A card of a specific suit ranked superior to all others for the duration of a hand; a colloquial name for the 45th US President.",
+      "startX": 18,
+      "startY": 11,
       "direction": "vertical",
-      "length": 6
+      "length": 5
     },
     {
-      "word": "DELAY",
-      "clue": "Washington weighs one for the TikTok divestment timeline.",
-      "definition": "A situation in which something is postponed or put off.",
+      "word": "DEMAND",
+      "clue": "AI compute requirement skyrocketing faster than infrastructure.",
+      "definition": "An insistent and peremptory request, made as a matter of right; the desire for a commodity or service.",
       "startX": 15,
-      "startY": 9,
+      "startY": 7,
+      "direction": "horizontal",
+      "length": 6
+    },
+    {
+      "word": "INDEX",
+      "clue": "Nasdaq benchmark seen adding Ferrovial, among others.",
+      "definition": "A statistical measure tracking the performance of a basket of stocks or other securities.",
+      "startX": 7,
+      "startY": 7,
       "direction": "vertical",
       "length": 5
     },
     {
-      "word": "FILING",
-      "clue": "Action preceding Chapter 11 for the Hollywood startup.",
-      "definition": "The action of submitting a document, such as a legal petition, to an authority.",
+      "word": "SALE",
+      "clue": "Transaction involving Brazil operations for $1.015B.",
+      "definition": "The exchange of an item or service for money.",
+      "startX": 0,
+      "startY": 10,
+      "direction": "horizontal",
+      "length": 4
+    },
+    {
+      "word": "NASAL",
+      "clue": "Relating to a spray method used by CARDAMYST.",
+      "definition": "Pertaining to the respiratory organ situated above the mouth.",
+      "startX": 6,
+      "startY": 1,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "EQUITY",
+      "clue": "Financial assets seen boosting visibility for Nanobiotix.",
+      "definition": "The quality of being fair and impartial; also refers to ownership stakes in a business.",
       "startX": 3,
-      "startY": 13,
-      "direction": "horizontal",
-      "length": 6
-    },
-    {
-      "word": "HEALTH",
-      "clue": "Insurance costs that Schumer calls Trump's response to 'pathetic.'",
-      "definition": "The state of being free from illness or injury.",
-      "startX": 8,
-      "startY": 9,
-      "direction": "horizontal",
-      "length": 6
-    },
-    {
-      "word": "CONFLICT",
-      "clue": "Situation in Ukraine that Trump warns could escalate to a world war.",
-      "definition": "A serious disagreement or argument, typically a protracted one.",
-      "startX": 10,
-      "startY": 20,
-      "direction": "horizontal",
-      "length": 8
-    },
-    {
-      "word": "CUBAN",
-      "clue": "Billionaire investor warning AI determines corporate survival.",
-      "definition": "A citizen or inhabitant of the island nation near the Caribbean Sea.",
-      "startX": 17,
-      "startY": 2,
-      "direction": "horizontal",
-      "length": 5
-    },
-    {
-      "word": "TALENT",
-      "clue": "Commodity fought over fiercely by Meta and Microsoft.",
-      "definition": "Natural aptitude or skill; exceptional ability.",
-      "startX": 13,
-      "startY": 2,
+      "startY": 10,
       "direction": "vertical",
       "length": 6
     },
     {
-      "word": "COSTS",
-      "clue": "Financial burden that Rivian says has plunged for certain sensors.",
-      "definition": "An amount that must be paid or spent to get something.",
-      "startX": 17,
-      "startY": 17,
+      "word": "ROCKET",
+      "clue": "Launch device successful in Japan mission.",
+      "definition": "A tubular device containing explosives or fuel, used for propulsion or carrying payloads.",
+      "startX": 18,
+      "startY": 12,
+      "direction": "horizontal",
+      "length": 6
+    },
+    {
+      "word": "ENTRY",
+      "clue": "Market start for Faraday Future in Florida.",
+      "definition": "An act of going or coming into a place or situation; the initial appearance in a specific commercial space.",
+      "startX": 16,
+      "startY": 11,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "FOUND",
+      "clue": "Discovered, like the Reiners at their home on Sunday.",
+      "definition": "Past tense of the verb meaning to locate or unearth something.",
+      "startX": 20,
+      "startY": 3,
       "direction": "vertical",
       "length": 5
     }
   ],
-  "generated_at_utc": "2025-12-14T08:21:28.827647",
-  "title": "Daily News Crossword: 2025-12-14"
+  "generated_at_utc": "2025-12-15T08:27:55.331836",
+  "title": "Daily News Crossword: 2025-12-15"
 }
