@@ -1,233 +1,233 @@
 {
-  "width": 24,
-  "height": 16,
+  "width": 21,
+  "height": 20,
   "words": [
     {
-      "word": "GROWTH",
-      "clue": "Expanding operations, a target for Equinox Gold and iRobot.",
-      "definition": "The process of increasing in size, frequency, or degree; development toward maturity or achievement.",
-      "startX": 12,
-      "startY": 9,
+      "word": "SUSPENDS",
+      "clue": "What the US temporarily did to the tech deal with the UK.",
+      "definition": "Temporarily prevents something from continuing or being in force.",
+      "startX": 2,
+      "startY": 7,
       "direction": "horizontal",
-      "length": 6
+      "length": 8
     },
     {
-      "word": "HUB",
-      "clue": "Central point of EV production established in Malaysia.",
-      "definition": "The effective center of an activity, region, or network.",
-      "startX": 17,
-      "startY": 9,
+      "word": "NOTES",
+      "clue": "Senior debt instruments priced by WTW and Zoetis.",
+      "definition": "Formal written obligations promising to repay a specified sum of money, often bearing interest.",
+      "startX": 4,
+      "startY": 3,
       "direction": "vertical",
-      "length": 3
+      "length": 5
     },
     {
-      "word": "ENERGY",
-      "clue": "Power source infrastructure struggling to keep up with AI needs.",
-      "definition": "The strength and vitality required for sustained physical or mental activity; usable power derived from physical or chemical resources.",
-      "startX": 13,
-      "startY": 6,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "SHARE",
-      "clue": "Repurchase unit, maybe 800M of them by Ferrovial.",
-      "definition": "One of the equal parts into which a company's capital is divided, entitling the holder to a proportion of the profits.",
-      "startX": 9,
-      "startY": 6,
+      "word": "TRACK",
+      "clue": "Tesla is on this path toward $1.5 trillion valuation.",
+      "definition": "A course or route, often indicating progress or development.",
+      "startX": 4,
+      "startY": 5,
       "direction": "horizontal",
       "length": 5
     },
     {
-      "word": "LAUNCH",
-      "clue": "Send a specific Electron vehicle into space.",
-      "definition": "To propel a device or vessel with great force, often upwards into the air or space.",
-      "startX": 10,
-      "startY": 1,
+      "word": "SOLAR",
+      "clue": "Type of power agreed upon by TotalEnergies and Google.",
+      "definition": "Relating to or derived from the star at the center of our planetary system.",
+      "startX": 2,
+      "startY": 7,
       "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "CRASH",
+      "clue": "Increased risk when power is lost on the road.",
+      "definition": "A violent collision, typically involving vehicles.",
+      "startX": 1,
+      "startY": 11,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "SPEECH",
+      "clue": "The January 6 address subject to controversial trimming.",
+      "definition": "The faculty or act of expressing or communicating thoughts and feelings by articulate sounds.",
+      "startX": 9,
+      "startY": 7,
+      "direction": "vertical",
+      "length": 6
+    },
+    {
+      "word": "FILES",
+      "clue": "What Trump submits to the court seeking billions in damages.",
+      "definition": "To submit a formal document, application, or complaint to an authority.",
+      "startX": 0,
+      "startY": 9,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "AMID",
+      "clue": "Surrounded by SPACEX IPO excitement.",
+      "definition": "In the middle of; surrounded by.",
+      "startX": 3,
+      "startY": 11,
+      "direction": "vertical",
+      "length": 4
+    },
+    {
+      "word": "RATE",
+      "clue": "The 5.1% unemployment metric reported for October.",
+      "definition": "A measure, quantity, or frequency, typically one measured against another quantity or standard.",
+      "startX": 6,
+      "startY": 4,
+      "direction": "vertical",
+      "length": 4
+    },
+    {
+      "word": "MEDIA",
+      "clue": "BBC or the press tycoon from Hong Kong.",
+      "definition": "The main means of mass communication, collectively.",
+      "startX": 0,
+      "startY": 13,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "LOWER",
+      "clue": "Expected direction of Enerpac's Q1 earnings.",
+      "definition": "Situated below another level; to decrease or reduce the intensity or quantity of something.",
+      "startX": 6,
+      "startY": 9,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "CRISIS",
+      "clue": "2008 financial catastrophe mentioned by Burry.",
+      "definition": "A time of intense difficulty, trouble, or danger requiring a crucial decision.",
+      "startX": 9,
+      "startY": 11,
+      "direction": "horizontal",
+      "length": 6
+    },
+    {
+      "word": "STAKE",
+      "clue": "Interest or percentage divested by TotalEnergies in SK408.",
+      "definition": "A share or involvement in a business or venture.",
+      "startX": 12,
+      "startY": 11,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "ENERGY",
+      "clue": "Total concern supplying Malaysian data centers with solar power.",
+      "definition": "The capacity for vigorous activity; power derived from the utilization of physical or chemical resources.",
+      "startX": 10,
+      "startY": 15,
+      "direction": "horizontal",
       "length": 6
     },
     {
       "word": "TRADE",
-      "clue": "Commerce term used by a Desk that exits the Index.",
-      "definition": "The action of buying and selling goods and services; exchange.",
-      "startX": 8,
-      "startY": 2,
+      "clue": "Commerce suffering from US/UK frustrations.",
+      "definition": "The action of buying and selling goods and services.",
+      "startX": 10,
+      "startY": 13,
       "direction": "horizontal",
       "length": 5
     },
     {
-      "word": "ACTOR",
-      "clue": "Hollywood professional found dead at a Brentwood residence.",
-      "definition": "A person whose profession is the depiction of characters in plays, films, or television.",
-      "startX": 8,
+      "word": "GIANT",
+      "clue": "Descriptive term for Tesla in the EV market.",
+      "definition": "An unusually large, powerful, or successful organization or person.",
+      "startX": 14,
+      "startY": 15,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "SHIPS",
+      "clue": "Ammonia-powered vessels delivering in 2026.",
+      "definition": "Large boats used for transporting people or goods by sea.",
+      "startX": 14,
+      "startY": 7,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "DRIVE",
+      "clue": "Power potentially lost in Ford's E-Transits.",
+      "definition": "The mechanical apparatus that transmits power from the engine to the wheels.",
+      "startX": 12,
+      "startY": 9,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "RECALL",
+      "clue": "What Ford does when potentially faulty vehicles are taken back.",
+      "definition": "The official order by a manufacturer to return a defective product.",
+      "startX": 11,
+      "startY": 17,
+      "direction": "horizontal",
+      "length": 6
+    },
+    {
+      "word": "SUED",
+      "clue": "Past tense action taken against the BBC for defamation.",
+      "definition": "Initiated legal proceedings against another person or organization.",
+      "startX": 16,
+      "startY": 7,
+      "direction": "vertical",
+      "length": 4
+    },
+    {
+      "word": "GREEN",
+      "clue": "Color of sustainable ammonia supply for vessels.",
+      "definition": "Relating to the preservation or promotion of the natural world.",
+      "startX": 0,
+      "startY": 3,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "FUND",
+      "clue": "Financial reserves used for acquisitions or share repurchases.",
+      "definition": "A source of money, especially one set aside for a specific purpose.",
+      "startX": 12,
+      "startY": 6,
+      "direction": "vertical",
+      "length": 4
+    },
+    {
+      "word": "EDITS",
+      "clue": "Misleading changes made to the BBC documentary footage.",
+      "definition": "Necessary revisions or corrections made to text or visual material prior to publication or airing.",
+      "startX": 11,
+      "startY": 19,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "AXLE",
+      "clue": "Shaft connecting wheels, causing rollaway danger when disengaged.",
+      "definition": "A rod or spindle passing through the center of a wheel or pair of wheels.",
+      "startX": 3,
       "startY": 0,
       "direction": "vertical",
-      "length": 5
+      "length": 4
     },
     {
-      "word": "STUDY",
-      "clue": "PERSEUS clinical research did not meet its primary goal.",
-      "definition": "The careful investigation or examination of a subject or phenomenon.",
-      "startX": 9,
-      "startY": 6,
-      "direction": "vertical",
-      "length": 5
-    },
-    {
-      "word": "CHAIR",
-      "clue": "High seat potentially sought by Kevin Hassett (Fed position).",
-      "definition": "A position of authority, often presiding over a meeting or committee; also, a piece of furniture for sitting.",
-      "startX": 4,
-      "startY": 4,
-      "direction": "horizontal",
-      "length": 5
-    },
-    {
-      "word": "FOCUS",
-      "clue": "Primary point of attention for earnings watchers like HYFT.",
-      "definition": "The center of interest or activity; concentrated attention.",
-      "startX": 4,
-      "startY": 2,
-      "direction": "vertical",
-      "length": 5
-    },
-    {
-      "word": "PRINT",
-      "clue": "Typeface report expected for Q1 from Jabil.",
-      "definition": "The official release of a company's financial results, often referring specifically to earnings figures.",
-      "startX": 5,
-      "startY": 7,
-      "direction": "horizontal",
-      "length": 5
-    },
-    {
-      "word": "PHASE",
-      "clue": "Clinical trial stage, RINGSIDE is 3.",
-      "definition": "A distinct period or stage in a process of change or development.",
-      "startX": 5,
-      "startY": 7,
-      "direction": "vertical",
-      "length": 5
-    },
-    {
-      "word": "DEATH",
-      "clue": "End outcome reduced by 54% in a recent J&J trial.",
-      "definition": "The permanent cessation of all biological functions that sustain an organism.",
-      "startX": 1,
-      "startY": 8,
-      "direction": "horizontal",
-      "length": 5
-    },
-    {
-      "word": "MEET",
-      "clue": "Achieve required expectations for a drug endpoint.",
-      "definition": "To satisfy or fulfill a requirement or condition.",
+      "word": "SKILL",
+      "clue": "AI is becoming a core career prerequisite.",
+      "definition": "The ability to do something well; expertise.",
       "startX": 16,
-      "startY": 6,
-      "direction": "vertical",
-      "length": 4
-    },
-    {
-      "word": "DEAL",
-      "clue": "Acquisition agreement for SpectraWAVE, terms undisclosed.",
-      "definition": "An agreement entered into by two or more parties for the purpose of trade or mutual advantage.",
-      "startX": 2,
-      "startY": 7,
-      "direction": "vertical",
-      "length": 4
-    },
-    {
-      "word": "DEBT",
-      "clue": "Financial obligation Equinox aims to repay after the sale.",
-      "definition": "A sum of money that is owed or due.",
-      "startX": 15,
-      "startY": 11,
-      "direction": "horizontal",
-      "length": 4
-    },
-    {
-      "word": "TRUMP",
-      "clue": "Former president whose opinion was downplayed regarding rates.",
-      "definition": "A card of a specific suit ranked superior to all others for the duration of a hand; a colloquial name for the 45th US President.",
-      "startX": 18,
-      "startY": 11,
-      "direction": "vertical",
-      "length": 5
-    },
-    {
-      "word": "DEMAND",
-      "clue": "AI compute requirement skyrocketing faster than infrastructure.",
-      "definition": "An insistent and peremptory request, made as a matter of right; the desire for a commodity or service.",
-      "startX": 15,
       "startY": 7,
       "direction": "horizontal",
-      "length": 6
-    },
-    {
-      "word": "INDEX",
-      "clue": "Nasdaq benchmark seen adding Ferrovial, among others.",
-      "definition": "A statistical measure tracking the performance of a basket of stocks or other securities.",
-      "startX": 7,
-      "startY": 7,
-      "direction": "vertical",
-      "length": 5
-    },
-    {
-      "word": "SALE",
-      "clue": "Transaction involving Brazil operations for $1.015B.",
-      "definition": "The exchange of an item or service for money.",
-      "startX": 0,
-      "startY": 10,
-      "direction": "horizontal",
-      "length": 4
-    },
-    {
-      "word": "NASAL",
-      "clue": "Relating to a spray method used by CARDAMYST.",
-      "definition": "Pertaining to the respiratory organ situated above the mouth.",
-      "startX": 6,
-      "startY": 1,
-      "direction": "vertical",
-      "length": 5
-    },
-    {
-      "word": "EQUITY",
-      "clue": "Financial assets seen boosting visibility for Nanobiotix.",
-      "definition": "The quality of being fair and impartial; also refers to ownership stakes in a business.",
-      "startX": 3,
-      "startY": 10,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "ROCKET",
-      "clue": "Launch device successful in Japan mission.",
-      "definition": "A tubular device containing explosives or fuel, used for propulsion or carrying payloads.",
-      "startX": 18,
-      "startY": 12,
-      "direction": "horizontal",
-      "length": 6
-    },
-    {
-      "word": "ENTRY",
-      "clue": "Market start for Faraday Future in Florida.",
-      "definition": "An act of going or coming into a place or situation; the initial appearance in a specific commercial space.",
-      "startX": 16,
-      "startY": 11,
-      "direction": "vertical",
-      "length": 5
-    },
-    {
-      "word": "FOUND",
-      "clue": "Discovered, like the Reiners at their home on Sunday.",
-      "definition": "Past tense of the verb meaning to locate or unearth something.",
-      "startX": 20,
-      "startY": 3,
-      "direction": "vertical",
       "length": 5
     }
   ],
-  "generated_at_utc": "2025-12-15T08:27:55.331836",
-  "title": "Daily News Crossword: 2025-12-15"
+  "generated_at_utc": "2025-12-16T08:25:54.015272",
+  "title": "Daily News Crossword: 2025-12-16"
 }
