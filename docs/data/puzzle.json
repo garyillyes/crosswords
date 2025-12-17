@@ -1,233 +1,233 @@
 {
-  "width": 21,
-  "height": 20,
+  "width": 26,
+  "height": 22,
   "words": [
     {
-      "word": "SUSPENDS",
-      "clue": "What the US temporarily did to the tech deal with the UK.",
-      "definition": "Temporarily prevents something from continuing or being in force.",
-      "startX": 2,
-      "startY": 7,
+      "word": "POLICIES",
+      "clue": "AOC criticizes Trump's immigration _________.",
+      "definition": "A definite course or method of action adopted or proposed by an organization or government.",
+      "startX": 9,
+      "startY": 13,
       "direction": "horizontal",
       "length": 8
     },
     {
-      "word": "NOTES",
-      "clue": "Senior debt instruments priced by WTW and Zoetis.",
-      "definition": "Formal written obligations promising to repay a specified sum of money, often bearing interest.",
-      "startX": 4,
-      "startY": 3,
+      "word": "BITCOIN",
+      "clue": "Cryptocurrency Saylor argues will not be broken by new tech.",
+      "definition": "A form of digital currency created and held electronically, relying on decentralized technology for transaction verification.",
+      "startX": 13,
+      "startY": 10,
       "direction": "vertical",
-      "length": 5
+      "length": 7
     },
     {
-      "word": "TRACK",
-      "clue": "Tesla is on this path toward $1.5 trillion valuation.",
-      "definition": "A course or route, often indicating progress or development.",
-      "startX": 4,
-      "startY": 5,
+      "word": "FUNDING",
+      "clue": "Financial backing that was $1.8 billion for EV infrastructure.",
+      "definition": "Money provided, especially by a government or organization, for a particular purpose.",
+      "startX": 8,
+      "startY": 16,
       "direction": "horizontal",
-      "length": 5
-    },
-    {
-      "word": "SOLAR",
-      "clue": "Type of power agreed upon by TotalEnergies and Google.",
-      "definition": "Relating to or derived from the star at the center of our planetary system.",
-      "startX": 2,
-      "startY": 7,
-      "direction": "vertical",
-      "length": 5
-    },
-    {
-      "word": "CRASH",
-      "clue": "Increased risk when power is lost on the road.",
-      "definition": "A violent collision, typically involving vehicles.",
-      "startX": 1,
-      "startY": 11,
-      "direction": "horizontal",
-      "length": 5
-    },
-    {
-      "word": "SPEECH",
-      "clue": "The January 6 address subject to controversial trimming.",
-      "definition": "The faculty or act of expressing or communicating thoughts and feelings by articulate sounds.",
-      "startX": 9,
-      "startY": 7,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "FILES",
-      "clue": "What Trump submits to the court seeking billions in damages.",
-      "definition": "To submit a formal document, application, or complaint to an authority.",
-      "startX": 0,
-      "startY": 9,
-      "direction": "horizontal",
-      "length": 5
-    },
-    {
-      "word": "AMID",
-      "clue": "Surrounded by SPACEX IPO excitement.",
-      "definition": "In the middle of; surrounded by.",
-      "startX": 3,
-      "startY": 11,
-      "direction": "vertical",
-      "length": 4
-    },
-    {
-      "word": "RATE",
-      "clue": "The 5.1% unemployment metric reported for October.",
-      "definition": "A measure, quantity, or frequency, typically one measured against another quantity or standard.",
-      "startX": 6,
-      "startY": 4,
-      "direction": "vertical",
-      "length": 4
-    },
-    {
-      "word": "MEDIA",
-      "clue": "BBC or the press tycoon from Hong Kong.",
-      "definition": "The main means of mass communication, collectively.",
-      "startX": 0,
-      "startY": 13,
-      "direction": "horizontal",
-      "length": 5
-    },
-    {
-      "word": "LOWER",
-      "clue": "Expected direction of Enerpac's Q1 earnings.",
-      "definition": "Situated below another level; to decrease or reduce the intensity or quantity of something.",
-      "startX": 6,
-      "startY": 9,
-      "direction": "horizontal",
-      "length": 5
-    },
-    {
-      "word": "CRISIS",
-      "clue": "2008 financial catastrophe mentioned by Burry.",
-      "definition": "A time of intense difficulty, trouble, or danger requiring a crucial decision.",
-      "startX": 9,
-      "startY": 11,
-      "direction": "horizontal",
-      "length": 6
+      "length": 7
     },
     {
       "word": "STAKE",
-      "clue": "Interest or percentage divested by TotalEnergies in SK408.",
-      "definition": "A share or involvement in a business or venture.",
-      "startX": 12,
-      "startY": 11,
+      "clue": "Ownership portion Diageo sold to Asahi (65%).",
+      "definition": "A percentage or interest in an enterprise, often involving capital.",
+      "startX": 15,
+      "startY": 9,
       "direction": "vertical",
       "length": 5
     },
     {
-      "word": "ENERGY",
-      "clue": "Total concern supplying Malaysian data centers with solar power.",
-      "definition": "The capacity for vigorous activity; power derived from the utilization of physical or chemical resources.",
-      "startX": 10,
-      "startY": 15,
+      "word": "TRUST",
+      "clue": "Property-holding arrangement for four corners property.",
+      "definition": "A fiduciary arrangement where a third party holds assets for the benefit of specified individuals or entities.",
+      "startX": 15,
+      "startY": 10,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "SHARES",
+      "clue": "MetaX units that soared over 600% in Shanghai.",
+      "definition": "Equal fractional components into which a company's capital is divided, held by investors.",
+      "startX": 18,
+      "startY": 5,
+      "direction": "vertical",
+      "length": 6
+    },
+    {
+      "word": "STATES",
+      "clue": "16 US entities filing a lawsuit over infrastructure funds.",
+      "definition": "Separate political units that are combined under a federal government.",
+      "startX": 13,
+      "startY": 5,
       "direction": "horizontal",
       "length": 6
     },
     {
-      "word": "TRADE",
-      "clue": "Commerce suffering from US/UK frustrations.",
-      "definition": "The action of buying and selling goods and services.",
-      "startX": 10,
-      "startY": 13,
-      "direction": "horizontal",
-      "length": 5
+      "word": "FED",
+      "clue": "Central bank abbreviation that often affects global rates.",
+      "definition": "The system of central banking in the United States of America.",
+      "startX": 8,
+      "startY": 16,
+      "direction": "vertical",
+      "length": 3
     },
     {
-      "word": "GIANT",
-      "clue": "Descriptive term for Tesla in the EV market.",
-      "definition": "An unusually large, powerful, or successful organization or person.",
-      "startX": 14,
-      "startY": 15,
+      "word": "DATA",
+      "clue": "Traffic ______ released by Martin Shkreli regarding AI usage.",
+      "definition": "Facts and statistics gathered for reference, analysis, or calculation.",
+      "startX": 15,
+      "startY": 2,
+      "direction": "vertical",
+      "length": 4
+    },
+    {
+      "word": "GEARS",
+      "clue": "Mechanical component; Accenture does this up for earnings.",
+      "definition": "Sets of toothed wheels that fit together to transmit power or modify motion.",
+      "startX": 13,
+      "startY": 1,
       "direction": "vertical",
       "length": 5
     },
     {
-      "word": "SHIPS",
-      "clue": "Ammonia-powered vessels delivering in 2026.",
-      "definition": "Large boats used for transporting people or goods by sea.",
-      "startX": 14,
+      "word": "DEBT",
+      "clue": "Risky financial instrument AI spending is supposedly avoiding.",
+      "definition": "A sum of money that is required or due to be paid to or borrowed from another party.",
+      "startX": 15,
+      "startY": 2,
+      "direction": "horizontal",
+      "length": 4
+    },
+    {
+      "word": "QUANTUM",
+      "clue": "The level of computing that Michael Saylor discussed.",
+      "definition": "Relating to the smallest possible discrete unit of any physical property.",
+      "startX": 16,
       "startY": 7,
+      "direction": "horizontal",
+      "length": 7
+    },
+    {
+      "word": "PRIOR",
+      "clue": "The value observed in the preceding period.",
+      "definition": "Existing or happening before the present time or before something else.",
+      "startX": 10,
+      "startY": 10,
       "direction": "vertical",
       "length": 5
     },
     {
-      "word": "DRIVE",
-      "clue": "Power potentially lost in Ford's E-Transits.",
-      "definition": "The mechanical apparatus that transmits power from the engine to the wheels.",
-      "startX": 12,
-      "startY": 9,
-      "direction": "horizontal",
-      "length": 5
-    },
-    {
-      "word": "RECALL",
-      "clue": "What Ford does when potentially faulty vehicles are taken back.",
-      "definition": "The official order by a manufacturer to return a defective product.",
-      "startX": 11,
+      "word": "RAISE",
+      "clue": "To collect $10 billion in investment, for example.",
+      "definition": "To obtain or collect, especially funds for a specific project.",
+      "startX": 4,
       "startY": 17,
       "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "TALKS",
+      "clue": "OpenAI and Amazon are reportedly engaged in these negotiations.",
+      "definition": "Formal discussions or consultations between parties concerning an issue.",
+      "startX": 19,
+      "startY": 10,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "INDEX",
+      "clue": "A numerical indicator, such as CPI or PPI.",
+      "definition": "A statistical measure of changes in a representative group of numbers or values.",
+      "startX": 6,
+      "startY": 17,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "TRUMP",
+      "clue": "Name associated with the search for a new Fed Chair.",
+      "definition": "A major success, triumph, or highly effective resource.",
+      "startX": 4,
+      "startY": 16,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "MERGER",
+      "clue": "Consolidation of Mercantile Bank and Eastern Michigan Financial.",
+      "definition": "The formal combination of two or more companies into a single new entity.",
+      "startX": 8,
+      "startY": 4,
+      "direction": "horizontal",
       "length": 6
     },
     {
-      "word": "SUED",
-      "clue": "Past tense action taken against the BBC for defamation.",
-      "definition": "Initiated legal proceedings against another person or organization.",
-      "startX": 16,
-      "startY": 7,
+      "word": "FUTURE",
+      "clue": "Time ahead; part of the name of the EV firm advancing deliveries.",
+      "definition": "The span of time subsequent to the moment of speaking or writing.",
+      "startX": 21,
+      "startY": 4,
       "direction": "vertical",
-      "length": 4
+      "length": 6
     },
     {
-      "word": "GREEN",
-      "clue": "Color of sustainable ammonia supply for vessels.",
-      "definition": "Relating to the preservation or promotion of the natural world.",
+      "word": "DEBUT",
+      "clue": "MetaX's blockbuster opening in the Shanghai market.",
+      "definition": "A person's or product's first public appearance, often marked by great success.",
       "startX": 0,
-      "startY": 3,
+      "startY": 16,
       "direction": "horizontal",
       "length": 5
     },
     {
-      "word": "FUND",
-      "clue": "Financial reserves used for acquisitions or share repurchases.",
-      "definition": "A source of money, especially one set aside for a specific purpose.",
-      "startX": 12,
-      "startY": 6,
+      "word": "NET",
+      "clue": "What remains after proceeds are calculated and expenses deducted.",
+      "definition": "Signifying an amount remaining after all necessary deductions have been made.",
+      "startX": 1,
+      "startY": 15,
       "direction": "vertical",
-      "length": 4
+      "length": 3
     },
     {
-      "word": "EDITS",
-      "clue": "Misleading changes made to the BBC documentary footage.",
-      "definition": "Necessary revisions or corrections made to text or visual material prior to publication or airing.",
-      "startX": 11,
-      "startY": 19,
-      "direction": "horizontal",
-      "length": 5
-    },
-    {
-      "word": "AXLE",
-      "clue": "Shaft connecting wheels, causing rollaway danger when disengaged.",
-      "definition": "A rod or spindle passing through the center of a wheel or pair of wheels.",
-      "startX": 3,
+      "word": "CHAIR",
+      "clue": "Waller is interviewing for this high position at the Fed.",
+      "definition": "The person presiding over a meeting or an organization, such as a committee or department.",
+      "startX": 10,
       "startY": 0,
       "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "LAWSUIT",
+      "clue": "Legal action taken over suspended EV charger money.",
+      "definition": "A claim or dispute brought to a court of law for formal resolution.",
+      "startX": 19,
+      "startY": 12,
+      "direction": "horizontal",
+      "length": 7
+    },
+    {
+      "word": "CASH",
+      "clue": "Goldman Sachs says 90% of AI spending is funded by this.",
+      "definition": "Money in the physical form of bills and coins, or instantly accessible deposits.",
+      "startX": 22,
+      "startY": 10,
+      "direction": "vertical",
       "length": 4
     },
     {
-      "word": "SKILL",
-      "clue": "AI is becoming a core career prerequisite.",
-      "definition": "The ability to do something well; expertise.",
-      "startX": 16,
-      "startY": 7,
-      "direction": "horizontal",
-      "length": 5
+      "word": "JUMPED",
+      "clue": "How Agape ATP stock behaved post-statement (44%).",
+      "definition": "Moved suddenly and quickly, or experienced a steep acceleration.",
+      "startX": 8,
+      "startY": 2,
+      "direction": "vertical",
+      "length": 6
     }
   ],
-  "generated_at_utc": "2025-12-16T08:25:54.015272",
-  "title": "Daily News Crossword: 2025-12-16"
+  "generated_at_utc": "2025-12-17T08:25:36.881376",
+  "title": "Daily News Crossword: 2025-12-17"
 }
