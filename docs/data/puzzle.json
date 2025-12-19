@@ -1,233 +1,233 @@
 {
-  "width": 23,
-  "height": 26,
+  "width": 22,
+  "height": 24,
   "words": [
     {
-      "word": "ADOPTION",
-      "clue": "Cryptocurrency acceptance rate supposedly slowed by quantum threats",
-      "definition": "The action or fact of choosing to take up or follow something and making it one's own practice or method.",
+      "word": "EQUIPMENT",
+      "clue": "Patriot system gear supplied to NATO ally.",
+      "definition": "The necessary items for a particular purpose, especially for a job or operation.",
+      "startX": 2,
+      "startY": 14,
+      "direction": "horizontal",
+      "length": 9
+    },
+    {
+      "word": "MOBILE",
+      "clue": "App type where ChatGPT hit its $3 billion milestone.",
+      "definition": "Capable of moving or being moved freely or easily.",
       "startX": 7,
       "startY": 14,
+      "direction": "vertical",
+      "length": 6
+    },
+    {
+      "word": "UKRAINE",
+      "clue": "Recipient of $105 billion EU allocated funds.",
+      "definition": "A large country in Eastern Europe, bordering the Black Sea.",
+      "startX": 5,
+      "startY": 10,
+      "direction": "vertical",
+      "length": 7
+    },
+    {
+      "word": "HARDWARE",
+      "clue": "Musk calls this the 'End Game' regarding Google's new play.",
+      "definition": "The physical components of a machine or system.",
+      "startX": 0,
+      "startY": 19,
       "direction": "horizontal",
       "length": 8
     },
     {
-      "word": "APPLE",
-      "clue": "Tech giant changing iOS payment policy in Japan to comply with new laws",
-      "definition": "A multinational technology corporation known for manufacturing consumer electronics, computer software, and online services.",
+      "word": "STOCKS",
+      "clue": "Shares or inventory watched by Friday analysts.",
+      "definition": "The capital raised by a business or corporation through the issue and subscription of shares.",
       "startX": 10,
       "startY": 13,
       "direction": "vertical",
-      "length": 5
+      "length": 6
     },
     {
-      "word": "TAIWAN",
-      "clue": "Island nation receiving US weapons while facing PRC pressure",
-      "definition": "A large region located in East Asia, known globally for its advanced manufacturing capabilities and disputed political status.",
-      "startX": 7,
+      "word": "JUMPED",
+      "clue": "Stock movement of VMAR after its public offering price.",
+      "definition": "Moved suddenly and quickly upward.",
+      "startX": 2,
       "startY": 10,
       "direction": "vertical",
       "length": 6
     },
     {
-      "word": "FUTURE",
-      "clue": "Mixed market contracts indicating expectations for tomorrow's activity",
-      "definition": "A time that is yet to come; also, financial instruments requiring the buyer to purchase an underlying commodity at a predetermined price on a specified date.",
-      "startX": 5,
+      "word": "PEACE",
+      "clue": "Trump's quick deal objective, avoiding conflict.",
+      "definition": "Freedom from disturbance; tranquility.",
+      "startX": 8,
+      "startY": 10,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "POVERTY",
+      "clue": "Issue faced by children, according to Bernie Sanders.",
+      "definition": "The state of being extremely poor.",
+      "startX": 8,
       "startY": 10,
       "direction": "horizontal",
-      "length": 6
+      "length": 7
     },
     {
-      "word": "MERGER",
-      "clue": "Event leading to new directors joining the Community West Bancshares board",
-      "definition": "A combination of two or more commercial companies or organizations into one larger enterprise.",
-      "startX": 9,
-      "startY": 17,
-      "direction": "horizontal",
-      "length": 6
-    },
-    {
-      "word": "EARNINGS",
-      "clue": "Report detailing profit expected from Birkenstock and Nike",
-      "definition": "Money obtained in return for labor or services, or from investments; corporate profits.",
-      "startX": 13,
-      "startY": 17,
+      "word": "MILITARY",
+      "clue": "Sanders criticizes the $1 trillion sector receiving priority funding.",
+      "definition": "Relating to or characteristic of soldiers or armed forces.",
+      "startX": 14,
+      "startY": 3,
       "direction": "vertical",
       "length": 8
     },
     {
-      "word": "REVENUE",
-      "clue": "Uxin predicts exceeding RMB 3.2B in annual sales here",
-      "definition": "Income, especially when of a company or organization and of a substantial nature, before deducting costs.",
-      "startX": 10,
-      "startY": 4,
-      "direction": "vertical",
-      "length": 7
-    },
-    {
-      "word": "TENSION",
-      "clue": "What rises between Beijing and Taipei over recent arms deals",
-      "definition": "A strained relationship between countries or individuals; also, a state of mental or emotional strain.",
-      "startX": 1,
-      "startY": 15,
-      "direction": "horizontal",
-      "length": 7
-    },
-    {
-      "word": "CHIEF",
-      "clue": "Lyne went from interim to permanent CEO, becoming this type of leader",
-      "definition": "A person who is highest in rank or authority.",
-      "startX": 5,
-      "startY": 12,
-      "direction": "horizontal",
-      "length": 5
-    },
-    {
-      "word": "ASSET",
-      "clue": "Valuable item, like gold, silver, or virtual property",
-      "definition": "A useful or valuable thing, person, or quality; property owned by a person or company, regarded as having worth.",
-      "startX": 4,
-      "startY": 14,
-      "direction": "vertical",
-      "length": 5
-    },
-    {
-      "word": "DIGITAL",
-      "clue": "Business combinations involving numerical electronic formats, often assets",
-      "definition": "Relating to, or denoting, information expressed as a series of the numerals 0 and 1, typically through electronic means.",
-      "startX": 0,
-      "startY": 18,
-      "direction": "horizontal",
-      "length": 7
-    },
-    {
-      "word": "TUMBLE",
-      "clue": "AI securities do this when investor sentiment shifts to 'Fear'",
-      "definition": "To fall suddenly, rapidly, or without control; a steep drop in value.",
-      "startX": 5,
-      "startY": 5,
-      "direction": "horizontal",
-      "length": 6
-    },
-    {
-      "word": "FEAR",
-      "clue": "Zone the Greed Index moved into recently after market declines",
-      "definition": "An unpleasant emotion caused by the belief that someone or something is dangerous, likely to cause pain, or a threat.",
-      "startX": 9,
+      "word": "FORECAST",
+      "clue": "Analysts revise their expectations for Q2 results.",
+      "definition": "A prediction or estimate of future events, especially relating to weather or business trends.",
+      "startX": 7,
       "startY": 7,
       "direction": "horizontal",
-      "length": 4
+      "length": 8
     },
     {
-      "word": "PAYMENT",
-      "clue": "Options required by Japan's new software competition laws for app distribution",
-      "definition": "The act of giving money to someone in exchange for goods or services rendered, or to discharge a debt.",
-      "startX": 8,
-      "startY": 22,
-      "direction": "horizontal",
-      "length": 7
-    },
-    {
-      "word": "SUBSIDY",
-      "clue": "Federal financial aid program ended by the Republican healthcare bill",
-      "definition": "A sum of money granted by the government or a public body to help an industry or business keep the price of a commodity or service low.",
-      "startX": 13,
-      "startY": 24,
-      "direction": "horizontal",
-      "length": 7
-    },
-    {
-      "word": "ANALYST",
-      "clue": "Expert who thinks investors can 'sniff the peril'",
-      "definition": "A person who examines data or information carefully and systematically to identify underlying patterns or draw conclusions.",
-      "startX": 16,
+      "word": "AID",
+      "clue": "Financial assistance for Eastern Europe.",
+      "definition": "Help or support given to someone or something.",
+      "startX": 5,
       "startY": 19,
       "direction": "vertical",
-      "length": 7
+      "length": 3
     },
     {
-      "word": "STUDY",
-      "clue": "Feasibility report delivered for the DeLamar Gold Project",
-      "definition": "A detailed investigation and analysis of a particular subject or situation.",
-      "startX": 18,
-      "startY": 21,
-      "direction": "vertical",
-      "length": 5
-    },
-    {
-      "word": "QUANTUM",
-      "clue": "Perceived threat factor slowing Bitcoin's progress, according to an analyst",
-      "definition": "Relating to the smallest possible discrete unit of any physical property, often associated with advanced computing systems.",
-      "startX": 6,
-      "startY": 0,
-      "direction": "vertical",
-      "length": 7
-    },
-    {
-      "word": "STOCK",
-      "clue": "Securities that fell sharply when AI hype decreased",
-      "definition": "The capital raised by a business or corporation through the issue and subscription of ownership portions.",
-      "startX": 18,
-      "startY": 21,
-      "direction": "horizontal",
-      "length": 5
-    },
-    {
-      "word": "PRICING",
-      "clue": "Determining the initial value of warrants or units ($0.80, for example)",
-      "definition": "The activity or process of setting a monetary value on goods, services, or financial instruments.",
-      "startX": 1,
+      "word": "CLIMATE",
+      "clue": "Germany's confidence measurement dropped below estimate.",
+      "definition": "The prevailing mood, attitude, or conditions of a place or period.",
+      "startX": 11,
       "startY": 3,
       "direction": "horizontal",
       "length": 7
     },
     {
-      "word": "MINING",
-      "clue": "Graphite extraction process Nouveau Monde is advancing",
-      "definition": "The process or industry of extracting minerals, coal, or other geological materials from the earth.",
+      "word": "SALES",
+      "clue": "Retail figures showing slight decline in November UK data.",
+      "definition": "Transactions involving the exchange of goods or services for money.",
+      "startX": 12,
+      "startY": 5,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "CASH",
+      "clue": "Upfront payment required for Coty's Wella stake divestment.",
+      "definition": "Money in the form of coins or banknotes, especially that readily available.",
+      "startX": 1,
+      "startY": 18,
+      "direction": "vertical",
+      "length": 4
+    },
+    {
+      "word": "GUIDANCE",
+      "clue": "FedEx improved this outlook for investors.",
+      "definition": "Direction or advice as to a decision or course of action.",
       "startX": 3,
-      "startY": 0,
+      "startY": 16,
       "direction": "vertical",
-      "length": 6
+      "length": 8
     },
     {
-      "word": "SAFETY",
-      "clue": "Life standards advanced by UL Solutions in Saudi Arabia",
-      "definition": "The condition of being protected from or unlikely to cause danger, risk, or injury.",
-      "startX": 15,
-      "startY": 19,
+      "word": "ASSETS",
+      "clue": "Russian holdings the EU avoided using for relief money.",
+      "definition": "Items of property owned by a person or company, regarded as having value and available to meet debts, commitments, or legacies.",
+      "startX": 0,
+      "startY": 23,
       "direction": "horizontal",
       "length": 6
     },
     {
-      "word": "EQUITY",
-      "clue": "Financing agreement based on ownership interest in a company",
-      "definition": "The value of the portions issued by a company; ownership interest in an organization.",
-      "startX": 5,
-      "startY": 0,
-      "direction": "horizontal",
-      "length": 6
-    },
-    {
-      "word": "SHARES",
-      "clue": "Pieces of corporate ownership offered to the public in an IPO",
-      "definition": "Any of the equal parts into which a company's capital is divided, entitling the holder to a proportion of the profits or losses.",
-      "startX": 9,
-      "startY": 20,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "UNITS",
-      "clue": "Measured components priced at $10 in a recent acquisition corporation IPO",
-      "definition": "An individual thing or person regarded as single and complete, especially the smallest component of a larger whole.",
+      "word": "SPENDING",
+      "clue": "ChatGPT hit $3 billion in user outflow.",
+      "definition": "The action of distributing funds or resources.",
       "startX": 10,
+      "startY": 18,
+      "direction": "horizontal",
+      "length": 8
+    },
+    {
+      "word": "CONSUMER",
+      "clue": "Shopper or GfK survey participant.",
+      "definition": "A person who purchases goods and services for personal use.",
+      "startX": 9,
+      "startY": 0,
+      "direction": "vertical",
+      "length": 8
+    },
+    {
+      "word": "RETAIL",
+      "clue": "Consumer transaction sector analyzed in UK data.",
+      "definition": "The practice of selling goods to the public in relatively small quantities for use or consumption rather than for resale.",
+      "startX": 14,
       "startY": 9,
       "direction": "horizontal",
+      "length": 6
+    },
+    {
+      "word": "AUSTIN",
+      "clue": "Texas city where the Cybercab was spotted in trials.",
+      "definition": "The capital of the U.S. state of Texas, known for its live music scene.",
+      "startX": 17,
+      "startY": 9,
+      "direction": "vertical",
+      "length": 6
+    },
+    {
+      "word": "INFLATION",
+      "clue": "Trump claimed this economic factor was 'stopped.'",
+      "definition": "A general increase in prices and fall in the purchasing value of money.",
+      "startX": 2,
+      "startY": 1,
+      "direction": "horizontal",
+      "length": 9
+    },
+    {
+      "word": "CONTRACT",
+      "clue": "$168M agreement awarded to Raytheon for Romanian defense.",
+      "definition": "A binding formal agreement, typically written, between two or more parties.",
+      "startX": 13,
+      "startY": 16,
+      "direction": "vertical",
+      "length": 8
+    },
+    {
+      "word": "EARNINGS",
+      "clue": "Financial results reported by FedEx and Nike.",
+      "definition": "Money obtained in return for labor or services, or from investments and business operations.",
+      "startX": 12,
+      "startY": 21,
+      "direction": "horizontal",
+      "length": 8
+    },
+    {
+      "word": "TESLA",
+      "clue": "Electric pioneer's company leading the robotaxi push.",
+      "definition": "An American automotive and energy company based in Texas.",
+      "startX": 17,
+      "startY": 12,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "CHIEF",
+      "clue": "AI officer responsible for Meta's 'Mango' models.",
+      "definition": "A person who is highest in rank or authority.",
+      "startX": 11,
+      "startY": 7,
+      "direction": "vertical",
       "length": 5
     }
   ],
-  "generated_at_utc": "2025-12-18T08:25:22.891833",
-  "title": "Daily News Crossword: 2025-12-18"
+  "generated_at_utc": "2025-12-19T08:25:01.392044",
+  "title": "Daily News Crossword: 2025-12-19"
 }
