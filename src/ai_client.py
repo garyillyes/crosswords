@@ -20,20 +20,22 @@ class AIClient:
         print("Sending text to Gemini for extraction...")
         
         prompt = f"""
-        Analyze the following news text. 
+        Analyze the following news text. The text is formatted as valid blocks of "SOURCE" (the URL) and "CONTENT" (the news summary).
+
         1. Extract 25 unique, distinct words that are relevant to the news or general vocabulary found in the text.
         2. Words must be between 3 and 10 letters long.
         3. No spaces, no hyphens, no special characters.
         4. For each word, write a crossword clue. The clue should be witty, cryptic, or fact-based relative to the news.
         5. For each word, provide a standard dictionary definition. IMPORTANT: The definition MUST NOT contain the word itself or any variation of it.
-        6. Return ONLY valid JSON in this format:
+        6. For each word, identify the "SOURCE" URL where the word or context was found.
+        7. Return ONLY valid JSON in this format:
         [
-          {{"word": "MARKET", "clue": "Place where stocks are traded", "definition": "A regular gathering of people for the purchase and sale of provisions, livestock, and other commodities."}},
+          {{"word": "MARKET", "clue": "Place where stocks are traded", "definition": "A regular gathering...", "source_url": "https://..."}},
           ...
         ]
         
         TEXT:
-        {text_blob[:12000]} 
+        {text_blob[:15000]} 
         """
         
         try:

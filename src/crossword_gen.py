@@ -23,14 +23,14 @@ class CrosswordGenerator:
             
             # Place first word in the middle
             first = word_data[0]
-            self._place_word(first['word'], first['clue'], first.get('definition', ''), 0, 0, 'horizontal')
+            self._place_word(first['word'], first['clue'], first.get('definition', ''), first.get('source_url', ''), 0, 0, 'horizontal')
             
             # Try to fit the rest
             shuffled_remainder = word_data[1:]
             random.shuffle(shuffled_remainder)
             
             for item in shuffled_remainder:
-                self._try_fit_word(item['word'], item['clue'], item.get('definition', ''))
+                self._try_fit_word(item['word'], item['clue'], item.get('definition', ''), item.get('source_url', ''))
             
             if len(self.placed_words) > best_score:
                 best_score = len(self.placed_words)
@@ -43,7 +43,7 @@ class CrosswordGenerator:
             return self._export()
         return None
 
-    def _place_word(self, word, clue, definition, x, y, direction):
+    def _place_word(self, word, clue, definition, source_url, x, y, direction):
         for i, char in enumerate(word):
             cx, cy = (x + i, y) if direction == 'horizontal' else (x, y + i)
             self.grid[(cx, cy)] = char
@@ -53,13 +53,14 @@ class CrosswordGenerator:
             'word': word,
             'clue': clue,
             'definition': definition,
+            'source_url': source_url,
             'startX': x,
             'startY': y,
             'direction': direction,
             'length': len(word)
         })
 
-    def _try_fit_word(self, word, clue, definition):
+    def _try_fit_word(self, word, clue, definition, source_url):
         possible_moves = []
         
         # Find all intersections with existing grid
@@ -82,7 +83,7 @@ class CrosswordGenerator:
 
         if possible_moves:
             x, y, direct = random.choice(possible_moves)
-            self._place_word(word, clue, definition, x, y, direct)
+            self._place_word(word, clue, definition, source_url, x, y, direct)
             return True
         return False
 

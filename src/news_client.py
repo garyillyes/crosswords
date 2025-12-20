@@ -46,7 +46,8 @@ class NewsClient:
             for article in articles:
                 headline = article.get('headline', '')
                 summary = article.get('summary', '')
-                text_blob += f"{headline}. {summary} "
+                url = article.get('url', '')
+                text_blob += f"SOURCE: {url}\nCONTENT: {headline}. {summary}\n---\n"
             
             return text_blob
             

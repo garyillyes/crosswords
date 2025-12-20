@@ -162,14 +162,21 @@
             const li = document.createElement('li');
             li.className = "cursor-pointer hover:bg-blue-50 p-1 rounded transition-colors";
 
-            // Layout: Clue + Hint Button on top, Definition hidden below
+            const sourceHtml = wordObj.source_url
+                ? `<a href="${wordObj.source_url}" target="_blank" title="Read Source Article" class="text-slate-400 hover:text-blue-600 text-lg leading-none no-underline">&infin;</a>`
+                : '';
+
+            // Layout: Clue + [Source Link + Hint Button] on top, Definition hidden below
             li.innerHTML = `
                 <div class="flex flex-col">
                     <div class="flex justify-between items-start">
-                        <span>
+                        <span class="mr-2">
                             <span class="font-bold text-blue-600">${num}.</span> ${wordObj.clue}
                         </span>
-                        <button class="ml-2 text-slate-400 hover:text-blue-600 text-xs hint-btn" title="Show Definition">❓</button>
+                        <div class="flex items-center gap-2 shrink-0">
+                            ${sourceHtml}
+                            <button class="text-slate-400 hover:text-blue-600 text-xs hint-btn" title="Show Definition">❓</button>
+                        </div>
                     </div>
                     <div class="hidden text-xs text-slate-500 mt-1 italic hint-text pl-4 border-l-2 border-slate-300">
                         ${wordObj.definition || 'No definition available.'}
