@@ -1,233 +1,233 @@
 {
-  "width": 22,
-  "height": 24,
+  "width": 31,
+  "height": 23,
   "words": [
     {
-      "word": "EQUIPMENT",
-      "clue": "Patriot system gear supplied to NATO ally.",
-      "definition": "The necessary items for a particular purpose, especially for a job or operation.",
-      "startX": 2,
-      "startY": 14,
+      "word": "RESEARCHER",
+      "clue": "Postdoctoral investigator charged by the FBI.",
+      "definition": "A person who conducts a systematic investigation to establish facts.",
+      "startX": 16,
+      "startY": 6,
       "direction": "horizontal",
+      "length": 10
+    },
+    {
+      "word": "ARGUES",
+      "clue": "Debate proponent claims it's undervalued.",
+      "definition": "To present reasons for or against a thing; contend in discussion or debate.",
+      "startX": 16,
+      "startY": 5,
+      "direction": "vertical",
+      "length": 6
+    },
+    {
+      "word": "HYBRID",
+      "clue": "Vehicle mixing gasoline and electricity.",
+      "definition": "Something made by combining two different elements; a mixture.",
+      "startX": 23,
+      "startY": 6,
+      "direction": "vertical",
+      "length": 6
+    },
+    {
+      "word": "TRUMP",
+      "clue": "Former president secured drug price reductions.",
+      "definition": "A prominent businessman and politician who served as the 45th head of the United States government.",
+      "startX": 25,
+      "startY": 5,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "SMUGGLING",
+      "clue": "Illicit E. Coli transport into the US.",
+      "definition": "Moving goods illegally into or out of a country.",
+      "startX": 18,
+      "startY": 6,
+      "direction": "vertical",
       "length": 9
     },
     {
-      "word": "MOBILE",
-      "clue": "App type where ChatGPT hit its $3 billion milestone.",
-      "definition": "Capable of moving or being moved freely or easily.",
-      "startX": 7,
-      "startY": 14,
-      "direction": "vertical",
+      "word": "REVIEW",
+      "clue": "USMCA talks scheduled to begin in January.",
+      "definition": "A formal evaluation or examination of something with the possibility of making changes.",
+      "startX": 15,
+      "startY": 12,
+      "direction": "horizontal",
       "length": 6
     },
     {
-      "word": "UKRAINE",
-      "clue": "Recipient of $105 billion EU allocated funds.",
-      "definition": "A large country in Eastern Europe, bordering the Black Sea.",
-      "startX": 5,
-      "startY": 10,
-      "direction": "vertical",
-      "length": 7
-    },
-    {
-      "word": "HARDWARE",
-      "clue": "Musk calls this the 'End Game' regarding Google's new play.",
-      "definition": "The physical components of a machine or system.",
-      "startX": 0,
-      "startY": 19,
-      "direction": "horizontal",
-      "length": 8
-    },
-    {
-      "word": "STOCKS",
-      "clue": "Shares or inventory watched by Friday analysts.",
-      "definition": "The capital raised by a business or corporation through the issue and subscription of shares.",
+      "word": "STRIKES",
+      "clue": "Trump ordered military assaults on ISIS targets.",
+      "definition": "Military attacks, usually involving air power or missiles.",
       "startX": 10,
-      "startY": 13,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "JUMPED",
-      "clue": "Stock movement of VMAR after its public offering price.",
-      "definition": "Moved suddenly and quickly upward.",
-      "startX": 2,
-      "startY": 10,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "PEACE",
-      "clue": "Trump's quick deal objective, avoiding conflict.",
-      "definition": "Freedom from disturbance; tranquility.",
-      "startX": 8,
-      "startY": 10,
-      "direction": "vertical",
-      "length": 5
-    },
-    {
-      "word": "POVERTY",
-      "clue": "Issue faced by children, according to Bernie Sanders.",
-      "definition": "The state of being extremely poor.",
-      "startX": 8,
       "startY": 10,
       "direction": "horizontal",
       "length": 7
     },
     {
-      "word": "MILITARY",
-      "clue": "Sanders criticizes the $1 trillion sector receiving priority funding.",
-      "definition": "Relating to or characteristic of soldiers or armed forces.",
-      "startX": 14,
+      "word": "RECALL",
+      "clue": "Ford command to fix rolling cars.",
+      "definition": "An official order to return specific goods to the manufacturer.",
+      "startX": 15,
+      "startY": 12,
+      "direction": "vertical",
+      "length": 6
+    },
+    {
+      "word": "CHINA",
+      "clue": "Nation whose power edge concerns Elon Musk.",
+      "definition": "A vast country in East Asia, the world's most populous nation.",
+      "startX": 13,
+      "startY": 8,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "LOSSES",
+      "clue": "Financial setbacks mounting despite massive valuations.",
+      "definition": "Expenses incurred that exceed the revenues earned over a period of time.",
+      "startX": 15,
+      "startY": 17,
+      "direction": "horizontal",
+      "length": 6
+    },
+    {
+      "word": "SAFETY",
+      "clue": "Candidates advocate for this regarding AI programs.",
+      "definition": "The condition of being protected from danger, risk, or injury.",
+      "startX": 20,
+      "startY": 17,
+      "direction": "vertical",
+      "length": 6
+    },
+    {
+      "word": "SANDERS",
+      "clue": "Vermont senator warns about plutocratic elections.",
+      "definition": "A prominent political figure known for advocating socialist policies and criticizing wealth inequality.",
+      "startX": 10,
+      "startY": 4,
+      "direction": "vertical",
+      "length": 7
+    },
+    {
+      "word": "FUNDING",
+      "clue": "SoftBank scrambling to raise $22.5B of this capital.",
+      "definition": "Financial resources provided to support a program or project.",
+      "startX": 8,
+      "startY": 6,
+      "direction": "horizontal",
+      "length": 7
+    },
+    {
+      "word": "CAPACITY",
+      "clue": "China's power generation capability exceeds the US.",
+      "definition": "The maximum amount that something can contain or produce.",
+      "startX": 20,
       "startY": 3,
       "direction": "vertical",
       "length": 8
     },
     {
-      "word": "FORECAST",
-      "clue": "Analysts revise their expectations for Q2 results.",
-      "definition": "A prediction or estimate of future events, especially relating to weather or business trends.",
-      "startX": 7,
-      "startY": 7,
-      "direction": "horizontal",
-      "length": 8
-    },
-    {
-      "word": "AID",
-      "clue": "Financial assistance for Eastern Europe.",
-      "definition": "Help or support given to someone or something.",
+      "word": "PRICES",
+      "clue": "What major pharma firms agreed to lower.",
+      "definition": "The amount of money expected or given in payment for something.",
       "startX": 5,
-      "startY": 19,
-      "direction": "vertical",
-      "length": 3
-    },
-    {
-      "word": "CLIMATE",
-      "clue": "Germany's confidence measurement dropped below estimate.",
-      "definition": "The prevailing mood, attitude, or conditions of a place or period.",
-      "startX": 11,
-      "startY": 3,
+      "startY": 4,
       "direction": "horizontal",
-      "length": 7
+      "length": 6
     },
     {
-      "word": "SALES",
-      "clue": "Retail figures showing slight decline in November UK data.",
-      "definition": "Transactions involving the exchange of goods or services for money.",
-      "startX": 12,
-      "startY": 5,
+      "word": "REFUND",
+      "clue": "Instacart required to return $60 million to customers.",
+      "definition": "A sum of money paid back to a purchaser.",
+      "startX": 6,
+      "startY": 4,
+      "direction": "vertical",
+      "length": 6
+    },
+    {
+      "word": "MAJOR",
+      "clue": "Not minor, describing firms or military action.",
+      "definition": "Significantly large or important; serious.",
+      "startX": 25,
+      "startY": 8,
       "direction": "horizontal",
       "length": 5
     },
     {
-      "word": "CASH",
-      "clue": "Upfront payment required for Coty's Wella stake divestment.",
-      "definition": "Money in the form of coins or banknotes, especially that readily available.",
-      "startX": 1,
-      "startY": 18,
+      "word": "BILLION",
+      "clue": "Nine zeros needed to define this valuation unit.",
+      "definition": "A thousand million, representing the number 1,000,000,000.",
+      "startX": 0,
+      "startY": 8,
+      "direction": "horizontal",
+      "length": 7
+    },
+    {
+      "word": "VETERAN",
+      "clue": "Experienced CTO recruited from Amazon by Starbucks.",
+      "definition": "A person who has had long service or experience in a particular field.",
+      "startX": 13,
+      "startY": 0,
+      "direction": "vertical",
+      "length": 7
+    },
+    {
+      "word": "TESLA",
+      "clue": "Musk\u2019s electric car company where pay was restored.",
+      "definition": "A manufacturer of electric vehicles and sustainable energy products.",
+      "startX": 11,
+      "startY": 15,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "OPENAI",
+      "clue": "Artificial intelligence powerhouse valued in the hundreds of billions.",
+      "definition": "An organization focused on ensuring that artificial general intelligence benefits all of humanity.",
+      "startX": 28,
+      "startY": 8,
+      "direction": "vertical",
+      "length": 6
+    },
+    {
+      "word": "MUSK",
+      "clue": "Billionaire 'vindicated' by Delaware court ruling.",
+      "definition": "The entrepreneur behind SpaceX and the owner of X (formerly Twitter).",
+      "startX": 17,
+      "startY": 15,
       "direction": "vertical",
       "length": 4
     },
     {
-      "word": "GUIDANCE",
-      "clue": "FedEx improved this outlook for investors.",
-      "definition": "Direction or advice as to a decision or course of action.",
-      "startX": 3,
-      "startY": 16,
-      "direction": "vertical",
-      "length": 8
-    },
-    {
-      "word": "ASSETS",
-      "clue": "Russian holdings the EU avoided using for relief money.",
-      "definition": "Items of property owned by a person or company, regarded as having value and available to meet debts, commitments, or legacies.",
-      "startX": 0,
-      "startY": 23,
+      "word": "FORCES",
+      "clue": "American troops targeted in Syria.",
+      "definition": "A group of people organized and trained for military or police service.",
+      "startX": 17,
+      "startY": 3,
       "direction": "horizontal",
       "length": 6
     },
     {
-      "word": "SPENDING",
-      "clue": "ChatGPT hit $3 billion in user outflow.",
-      "definition": "The action of distributing funds or resources.",
-      "startX": 10,
-      "startY": 18,
+      "word": "DEBT",
+      "clue": "Financial obligation SoftBank may use Arm stake to back.",
+      "definition": "An amount of money that is owed or due.",
+      "startX": 27,
+      "startY": 10,
       "direction": "horizontal",
-      "length": 8
+      "length": 4
     },
     {
-      "word": "CONSUMER",
-      "clue": "Shopper or GfK survey participant.",
-      "definition": "A person who purchases goods and services for personal use.",
+      "word": "GROWTH",
+      "clue": "Explosive expansion outweighing financial liabilities.",
+      "definition": "The process of increasing in physical size, importance, or value.",
       "startX": 9,
-      "startY": 0,
-      "direction": "vertical",
-      "length": 8
-    },
-    {
-      "word": "RETAIL",
-      "clue": "Consumer transaction sector analyzed in UK data.",
-      "definition": "The practice of selling goods to the public in relatively small quantities for use or consumption rather than for resale.",
-      "startX": 14,
-      "startY": 9,
+      "startY": 2,
       "direction": "horizontal",
       "length": 6
-    },
-    {
-      "word": "AUSTIN",
-      "clue": "Texas city where the Cybercab was spotted in trials.",
-      "definition": "The capital of the U.S. state of Texas, known for its live music scene.",
-      "startX": 17,
-      "startY": 9,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "INFLATION",
-      "clue": "Trump claimed this economic factor was 'stopped.'",
-      "definition": "A general increase in prices and fall in the purchasing value of money.",
-      "startX": 2,
-      "startY": 1,
-      "direction": "horizontal",
-      "length": 9
-    },
-    {
-      "word": "CONTRACT",
-      "clue": "$168M agreement awarded to Raytheon for Romanian defense.",
-      "definition": "A binding formal agreement, typically written, between two or more parties.",
-      "startX": 13,
-      "startY": 16,
-      "direction": "vertical",
-      "length": 8
-    },
-    {
-      "word": "EARNINGS",
-      "clue": "Financial results reported by FedEx and Nike.",
-      "definition": "Money obtained in return for labor or services, or from investments and business operations.",
-      "startX": 12,
-      "startY": 21,
-      "direction": "horizontal",
-      "length": 8
-    },
-    {
-      "word": "TESLA",
-      "clue": "Electric pioneer's company leading the robotaxi push.",
-      "definition": "An American automotive and energy company based in Texas.",
-      "startX": 17,
-      "startY": 12,
-      "direction": "horizontal",
-      "length": 5
-    },
-    {
-      "word": "CHIEF",
-      "clue": "AI officer responsible for Meta's 'Mango' models.",
-      "definition": "A person who is highest in rank or authority.",
-      "startX": 11,
-      "startY": 7,
-      "direction": "vertical",
-      "length": 5
     }
   ],
-  "generated_at_utc": "2025-12-19T08:25:01.392044",
-  "title": "Daily News Crossword: 2025-12-19"
+  "generated_at_utc": "2025-12-20T08:21:15.019319",
+  "title": "Daily News Crossword: 2025-12-20"
 }
