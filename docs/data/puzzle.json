@@ -1,258 +1,258 @@
 {
-  "width": 22,
-  "height": 24,
+  "width": 23,
+  "height": 19,
   "words": [
     {
-      "word": "TRAFFIC",
-      "clue": "Signals for movement interrupted by the PG&E fire.",
-      "definition": "The movement of vehicles and pedestrians along roads.",
-      "source_url": "https://www.benzinga.com/news/events/25/12/49526744/pge-substation-fire-triggers-massive-san-francisco-outage-impacting-over-130000-customers",
+      "word": "BUSINESS",
+      "clue": "QOQ figure shows UK activity (8)",
+      "definition": "A person's regular occupation, profession, or trade; also, commercial activity generally.",
+      "source_url": "https://www.benzinga.com/economics/macro-economic-events/25/12/49530202/u-k-business-investment-qoq-for-q3-1-5-vs-0-3-est-1-7-revised-prior",
+      "startX": 8,
+      "startY": 8,
+      "direction": "horizontal",
+      "length": 8
+    },
+    {
+      "word": "SOLAR",
+      "clue": "Relating to the sun, powering Beijing's surge (5)",
+      "definition": "Relating to or determined by the star at the center of the planetary system.",
+      "source_url": "https://www.benzinga.com/markets/tech/25/12/49530161/elon-musk-praises-chinas-solar-surge-as-daniel-newman-warns-us-risks-falling-behind-beijing",
+      "startX": 14,
+      "startY": 8,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "TRIAL",
+      "clue": "Phase 3 testing of a new drug (5)",
+      "definition": "A test of the performance, qualities, or suitability of someone or something.",
+      "source_url": "https://www.benzinga.com/news/25/12/49529947/the-first-patient-in-phase-3-destiny-endometrial02-trial-of-enhertu-which-is-co-jointly-developed-by",
+      "startX": 13,
+      "startY": 12,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "PATIENT",
+      "clue": "First trial participant in DESTINY-endometrial02 (7)",
+      "definition": "A recipient of medical care or treatment.",
+      "source_url": "https://www.benzinga.com/news/25/12/49529947/the-first-patient-in-phase-3-destiny-endometrial02-trial-of-enhertu-which-is-co-jointly-developed-by",
       "startX": 12,
+      "startY": 3,
+      "direction": "vertical",
+      "length": 7
+    },
+    {
+      "word": "CHINA",
+      "clue": "Nation praised by Musk for its solar growth (5)",
+      "definition": "A large country in East Asia with the world's largest population.",
+      "source_url": "https://www.benzinga.com/markets/tech/25/12/49530161/elon-musk-praises-chinas-solar-surge-as-daniel-newman-warns-us-risks-falling-behind-beijing",
+      "startX": 8,
+      "startY": 4,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "EUROPE",
+      "clue": "Continent where KKR is establishing rail operations (6)",
+      "definition": "The second smallest continent, bordered by the Arctic Ocean to the north and the Mediterranean Sea to the south.",
+      "source_url": "https://www.benzinga.com/news/25/12/49530315/kkr-partners-with-green-mobility-partners-to-create-leading-european-rail-leasing-platform",
+      "startX": 9,
+      "startY": 7,
+      "direction": "vertical",
+      "length": 6
+    },
+    {
+      "word": "INDIA",
+      "clue": "Asian nation receiving 1GW of new solar capacity (5)",
+      "definition": "A republic in Southern Asia, the seventh-largest country by area.",
+      "source_url": "https://www.benzinga.com/news/25/12/49529891/arcelormittal-expands-renewable-energy-portfolio-with-1gw-of-new-solar-and-wind-projects-in-india",
+      "startX": 15,
+      "startY": 12,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "WOKE",
+      "clue": "Conscious, but policies are ending under Trump admin (4)",
+      "definition": "Having an active awareness of relevant political and social issues, especially matters of racial and social justice.",
+      "source_url": "https://www.benzinga.com/news/politics/25/12/49530183/sean-duffy-touts-end-to-woke-dei-university-policies-says-trump-admin-investing-33-million-to-promote-autonomous-vehicle-programs-ai",
+      "startX": 8,
       "startY": 10,
+      "direction": "horizontal",
+      "length": 4
+    },
+    {
+      "word": "STOCK",
+      "clue": "Prices that Chanos says shouldn't be high (5)",
+      "definition": "The capital raised by a business or corporation through the issue and subscription of shares.",
+      "source_url": "https://www.benzinga.com/markets/equities/25/12/49530212/famed-short-seller-jim-chanos-slams-elon-musks-no-need-to-save-money-narrative-no-need-for-elevated-stock-prices-then-either",
+      "startX": 8,
+      "startY": 1,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "PRODUCT",
+      "clue": "GDP measures the output of this (7)",
+      "definition": "An article or substance manufactured or refined for sale.",
+      "source_url": "https://www.benzinga.com/economics/macro-economic-events/25/12/49530234/u-k-gross-domestic-product-yoy-for-q3-1-3-vs-1-3-est-1-4-prior",
+      "startX": 2,
+      "startY": 2,
       "direction": "horizontal",
       "length": 7
     },
     {
-      "word": "WEALTH",
-      "clue": "Building this fortune is the advice after a watch gift misstep.",
-      "definition": "An abundance of valuable possessions or financial assets.",
-      "source_url": "https://www.benzinga.com/personal-finance/financial-advisors/25/12/49526862/kevin-oleary-reveals-luxury-watch-gift-misstep-that-angered-wife-before-becoming-her-favorite-lessons-in-high-stakes-gifting",
-      "startX": 14,
+      "word": "VEHICLE",
+      "clue": "$33M funding directed towards this autonomous means of transport (7)",
+      "definition": "A thing used for transporting people or goods, especially on land, such as a car, truck, or cart.",
+      "source_url": "https://www.benzinga.com/news/politics/25/12/49530183/sean-duffy-touts-end-to-woke-dei-university-policies-says-trump-admin-investing-33-million-to-promote-autonomous-vehicle-programs-ai",
+      "startX": 17,
+      "startY": 7,
+      "direction": "vertical",
+      "length": 7
+    },
+    {
+      "word": "OIL",
+      "clue": "Black liquid engineering focus offshore (3)",
+      "definition": "A viscous liquid, typically derived from petroleum, used as a fuel or lubricant.",
+      "source_url": "https://www.benzinga.com/news/25/12/49529930/reported-saturday-fluor-agrees-to-divest-zhuhai-fabrication-yard-in-china-for-122m-to-offshore-oil-e",
+      "startX": 16,
+      "startY": 10,
+      "direction": "horizontal",
+      "length": 3
+    },
+    {
+      "word": "GROSS",
+      "clue": "144 items, or the total domestic result (5)",
+      "definition": "The total amount of something before any deductions are made.",
+      "source_url": "https://www.benzinga.com/economics/macro-economic-events/25/12/49530234/u-k-gross-domestic-product-yoy-for-q3-1-3-vs-1-3-est-1-4-prior",
+      "startX": 15,
+      "startY": 4,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "AIRLINES",
+      "clue": "Alaska, for instance, plans to restart service (8)",
+      "definition": "Companies that provide regular flights for public transportation of passengers and goods.",
+      "source_url": "https://www.benzinga.com/news/25/12/49530116/reported-friday-alaska-airlines-to-restart-paine-field-portland-nonstop-service-in-june-2026",
+      "startX": 3,
+      "startY": 12,
+      "direction": "horizontal",
+      "length": 8
+    },
+    {
+      "word": "PRIOR",
+      "clue": "Before the revised number appeared (5)",
+      "definition": "Existing or arranged in time before the present or before something else.",
+      "source_url": "https://www.benzinga.com/economics/macro-economic-events/25/12/49530243/u-k-current-account-for-q3-12-b-vs-19-1b-est-21-1b-revised-prior",
+      "startX": 13,
+      "startY": 15,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "SERVICE",
+      "clue": "Alaska will restart non-stop transportation provision (7)",
+      "definition": "The action of helping or doing work for someone.",
+      "source_url": "https://www.benzinga.com/news/25/12/49530116/reported-friday-alaska-airlines-to-restart-paine-field-portland-nonstop-service-in-june-2026",
+      "startX": 3,
+      "startY": 0,
+      "direction": "vertical",
+      "length": 7
+    },
+    {
+      "word": "JOBS",
+      "clue": "Wolfers warns that zero were created since tariffs started (4)",
+      "definition": "Paid positions of regular employment.",
+      "source_url": "https://www.benzinga.com/markets/economic-data/25/12/49529874/top-economist-warns-unemployment-not-stock-prices-is-true-measure-of-economic-health-close-to-zero-jobs-created-since-tariffs-were-introduced",
+      "startX": 0,
+      "startY": 0,
+      "direction": "horizontal",
+      "length": 4
+    },
+    {
+      "word": "MONEY",
+      "clue": "Currency Musk suggests we don't need to retain (5)",
+      "definition": "A current medium of exchange in the form of coins and banknotes.",
+      "source_url": "https://www.benzinga.com/markets/equities/25/12/49530212/famed-short-seller-jim-chanos-slams-elon-musks-no-need-to-save-money-narrative-no-need-for-elevated-stock-prices-then-either",
+      "startX": 0,
+      "startY": 6,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "ENERGY",
+      "clue": "Power derived from solar and wind projects (6)",
+      "definition": "The capacity for doing work; usable power.",
+      "source_url": "https://www.benzinga.com/news/25/12/49529891/arcelormittal-expands-renewable-energy-portfolio-with-1gw-of-new-solar-and-wind-projects-in-india",
+      "startX": 17,
+      "startY": 8,
+      "direction": "horizontal",
+      "length": 6
+    },
+    {
+      "word": "CRISIS",
+      "clue": "Economic anxiety stemming from affordability problems (6)",
+      "definition": "A time of intense difficulty, trouble, or danger requiring immediate action.",
+      "source_url": "https://www.benzinga.com/markets/macro-economic-events/25/12/49529873/us-consumer-sentiment-falls-to-historic-low-economic-anxiety-deepens-amid-affordability-crisis-labor-market-strain",
+      "startX": 4,
       "startY": 8,
       "direction": "vertical",
       "length": 6
     },
     {
-      "word": "FATHER",
-      "clue": "Elon Musk called this relative 'Evil'.",
-      "definition": "A man who has begotten a child.",
-      "source_url": "https://www.benzinga.com/news/social-media/25/12/49526334/elon-musk-called-his-father-evil-he-was-such-a-terrible-human-being",
-      "startX": 11,
-      "startY": 13,
-      "direction": "horizontal",
-      "length": 6
-    },
-    {
-      "word": "CANCER",
-      "clue": "Disease diagnosed after use of a J&J hygiene product.",
-      "definition": "A malignant tumor of potentially unlimited growth that expands locally and spreads quickly.",
-      "source_url": "https://www.benzinga.com/news/legal/25/12/49526414/why-a-minnesota-jury-ordered-johnson-johnson-to-pay-65-5-million-in-damages",
-      "startX": 12,
+      "word": "LAUNCH",
+      "clue": "Rocket Lab completed this successful orbital departure (6)",
+      "definition": "To set (a boat or ship) in motion by pushing it or allowing it to slide into the water; or, to send a projectile or missile into the air.",
+      "source_url": "https://www.benzinga.com/news/25/12/49530137/reported-sunday-rocket-lab-ends-2025-with-perfect-mission-record-after-successful-electron-launch-fo",
+      "startX": 6,
       "startY": 12,
       "direction": "vertical",
       "length": 6
     },
     {
-      "word": "PUBLIC",
-      "clue": "Altman is disinterested in leading this type of company.",
-      "definition": "Concerning the people as a whole, often relating to government organization.",
-      "source_url": "https://www.benzinga.com/markets/tech/25/12/49526378/sam-altman-says-hes-0-interested-in-being-a-public-company-ceo",
-      "startX": 18,
-      "startY": 5,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "BORDER",
-      "clue": "Line of security cited by the executive he endorsed.",
-      "definition": "A dividing line separating two countries, states, or other political entities.",
-      "source_url": "https://www.benzinga.com/news/politics/25/12/49526872/trump-endorses-nassau-county-executive-bruce-blakeman-for-new-york-governor-race",
-      "startX": 8,
-      "startY": 16,
-      "direction": "horizontal",
-      "length": 6
-    },
-    {
-      "word": "RUSSIA",
-      "clue": "Intelligence aims regarding Ukraine that Tulsi Gabbard disputed.",
-      "definition": "The world's largest country, spanning Eastern Europe and Northern Asia.",
-      "source_url": "https://www.benzinga.com/news/politics/25/12/49526805/director-of-national-intelligence-tulsi-gabbard-disputes-us-intelligence-on-russia-amid-trump-backed-ukraine-peace-efforts",
-      "startX": 10,
-      "startY": 16,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "WAIVER",
-      "clue": "Program for travelers that now requires extensive disclosure.",
-      "definition": "An act or instance of relinquishing a right or claim.",
-      "source_url": "https://www.benzinga.com/news/politics/25/12/49526711/trump-administration-proposes-five-year-social-media-disclosure-for-visa-waiver-travelers",
-      "startX": 9,
-      "startY": 21,
-      "direction": "horizontal",
-      "length": 6
-    },
-    {
-      "word": "ACCESS",
-      "clue": "Priority entrance offered to Tesla shareholders for a potential IPO.",
-      "definition": "The means or opportunity to approach or enter a place.",
-      "source_url": "https://www.benzinga.com/markets/equities/25/12/49526688/bill-ackman-proposes-elon-musks-spacex-ipo-through-sparc-structure-offering-tesla-shareholders-priority-access",
-      "startX": 13,
-      "startY": 18,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "CLAIMS",
-      "clue": "President asserts victory over the federal government.",
-      "definition": "To assert that one has a right to something.",
-      "source_url": "https://www.benzinga.com/news/politics/25/12/49526452/trump-claims-victory-over-government-jokes-hes-awarding-himself-1-billion",
-      "startX": 8,
-      "startY": 23,
-      "direction": "horizontal",
-      "length": 6
-    },
-    {
-      "word": "TRAVEL",
-      "clue": "Employees advised to avoid this due to visa backlogs.",
-      "definition": "To make a journey, typically of some length.",
-      "source_url": "https://www.benzinga.com/news/politics/25/12/49526679/google-apple-warn-visa-employees-against-leaving-us-as-significant-delays-push-backlogs-to-nearly-12-months-report",
-      "startX": 16,
-      "startY": 12,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "TRUMP",
-      "clue": "The former President's card game, often played in New York races (5)",
-      "definition": "The current or former chief executive officer of a country or state.",
-      "source_url": "https://www.benzinga.com/news/politics/25/12/49526872/trump-endorses-nassau-county-executive-bruce-blakeman-for-new-york-governor-race",
-      "startX": 14,
-      "startY": 5,
-      "direction": "horizontal",
-      "length": 5
-    },
-    {
-      "word": "SAFETY",
-      "clue": "FAA documents reveal risks to this, post-Starship failure.",
-      "definition": "The condition of being protected from or unlikely to cause danger, risk, or injury.",
-      "source_url": "https://www.benzinga.com/news/events/25/12/49526852/spacex-starship-explosion-created-aviation-safety-risks-faa-documents-reveal-report",
-      "startX": 14,
-      "startY": 1,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "PETROL",
-      "clue": "Fuel product facing a debated 2035 EU prohibition.",
-      "definition": "A refined petroleum product used as fuel for internal combustion engines.",
-      "source_url": "https://www.benzinga.com/markets/equities/25/12/49526438/eu-eases-2035-petrol-ban-but-stellantis-ceo-says-plan-still-does-not-do-the-job",
-      "startX": 15,
-      "startY": 16,
-      "direction": "horizontal",
-      "length": 6
-    },
-    {
-      "word": "TANKER",
-      "clue": "Venezuelan vessel intercepted in the international wet stuff.",
-      "definition": "A ship, road vehicle, or aircraft designed to carry liquids or gases in bulk.",
-      "source_url": "https://www.benzinga.com/news/politics/25/12/49526815/us-intercepts-venezuelan-oil-tanker-in-international-waters-as-trump-ramps-up-pressure-on-maduro",
-      "startX": 16,
-      "startY": 12,
-      "direction": "horizontal",
-      "length": 6
-    },
-    {
-      "word": "CRYPTO",
-      "clue": "Jim Cramer tossed out all of this digital money three years ago.",
-      "definition": "A digital asset designed to work as a medium of exchange using strong encryption techniques.",
-      "source_url": "https://www.benzinga.com/crypto/cryptocurrency/25/12/49526069/jim-cramer-dumped-all-his-crypto-three-years-ago-vowed-never-in-a-million-years-bitcoin-surged-416-since-that-proclamation",
-      "startX": 9,
-      "startY": 11,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "UNHAPPY",
-      "clue": "The emotion of Meta's top earner under Zuckerberg.",
-      "definition": "Feeling or showing sorrow or discontent.",
-      "source_url": "https://www.benzinga.com/markets/tech/25/12/49526405/metas-highest-paid-employee-is-reportedly-unhappy-with-zuckerberg",
-      "startX": 3,
-      "startY": 13,
-      "direction": "horizontal",
-      "length": 7
-    },
-    {
-      "word": "FORTUNE",
-      "clue": "The large sum Musk could keep 98% of, even after generous gifts.",
-      "definition": "A large amount of money or assets; great wealth.",
-      "source_url": "https://www.benzinga.com/news/politics/25/12/49526223/musk-could-pay-the-1000-trump-account-bonus-for-every-baby-born-in-the-next-4-years-and-keep-98-of-his-fortune",
-      "startX": 3,
-      "startY": 9,
-      "direction": "vertical",
-      "length": 7
-    },
-    {
-      "word": "POWER",
-      "clue": "TikTok's new owners might have less ability to influence.",
-      "definition": "The capacity or ability to direct or influence the behavior of others or the course of events.",
-      "source_url": "https://www.benzinga.com/markets/tech/25/12/49526464/leaked-memo-reveals-why-tiktoks-new-us-owners-may-have-less-power-than-expected",
-      "startX": 19,
-      "startY": 15,
-      "direction": "vertical",
-      "length": 5
-    },
-    {
-      "word": "STOCKS",
-      "clue": "Shares of capital that investors couldn't stop buzzing about.",
-      "definition": "The capital raised by a business or corporation through the issue and subscription of shares.",
-      "source_url": "https://www.benzinga.com/markets/equities/25/12/49525773/pypl-djt-mu-and-more-5-stocks-investors-couldnt-stop-buzzing-about-this-week",
-      "startX": 5,
-      "startY": 19,
-      "direction": "horizontal",
-      "length": 6
-    },
-    {
-      "word": "ATTEMPT",
-      "clue": "The deadly effort against Trump that Harris discussed.",
-      "definition": "An effort to achieve or complete something difficult.",
-      "source_url": "https://www.benzinga.com/news/politics/25/12/49526424/kamala-harris-reveals-detail-call-with-trump-after-assassination-attempt",
-      "startX": 0,
-      "startY": 15,
-      "direction": "horizontal",
-      "length": 7
-    },
-    {
-      "word": "CYBER",
-      "clue": "Relating to IT, it's half of Rudd's new command role.",
-      "definition": "Relating to or characteristic of the culture of computers, information technology, and virtual reality.",
-      "source_url": "https://www.benzinga.com/news/politics/25/12/49526389/trump-advances-joshua-rudd-for-top-nsa-cyber-command-role",
-      "startX": 13,
-      "startY": 19,
-      "direction": "horizontal",
-      "length": 5
-    },
-    {
-      "word": "GAINS",
-      "clue": "Markets made modest amounts of these increases.",
-      "definition": "An increase in wealth or resources.",
-      "source_url": "https://www.benzinga.com/markets/market-summary/25/12/49525820/benzinga-bulls-and-bears-carnival-caterpillar-meta-and-markets-make-modest-gains",
-      "startX": 10,
-      "startY": 1,
-      "direction": "horizontal",
-      "length": 5
-    },
-    {
-      "word": "DAILY",
-      "clue": "Frequency of bankruptcy risks faced by entrepreneurs.",
-      "definition": "Done, produced, or occurring every day or every weekday.",
-      "source_url": "https://www.benzinga.com/markets/tech/25/12/49526775/mike-repole-says-i-spend-more-time-talking-people-out-of-being-an-entrepreneur-warns-of-daily-bankruptcy-risks-in-first-5-survival-years",
-      "startX": 11,
-      "startY": 0,
-      "direction": "vertical",
-      "length": 5
-    },
-    {
-      "word": "HUGE",
-      "clue": "Munger's word for the enormous advantage Berkshire Hathaway had.",
-      "definition": "Extremely large; enormous.",
-      "source_url": "https://www.benzinga.com/news/education/25/12/49526128/charlie-munger-credited-berkshire-hathaways-success-to-this-huge-advantage-and-sensible-people-at-the-helm",
-      "startX": 16,
+      "word": "RISKS",
+      "clue": "The possibility of the US falling behind in the AI race (5)",
+      "definition": "A situation involving exposure to danger, harm, or loss.",
+      "source_url": "https://www.benzinga.com/markets/tech/25/12/49530161/elon-musk-praises-chinas-solar-surge-as-daniel-newman-warns-us-risks-falling-behind-beijing",
+      "startX": 2,
       "startY": 4,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "SHORT",
+      "clue": "Seller of borrowed shares often mentioned with Chanos (5)",
+      "definition": "Having little length, duration, or height; also, trading in anticipation of a price decline.",
+      "source_url": "https://www.benzinga.com/markets/equities/25/12/49530212/famed-short-seller-jim-chanos-slams-elon-musks-no-need-to-save-money-narrative-no-need-for-elevated-stock-prices-then-either",
+      "startX": 10,
+      "startY": 12,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "CREATE",
+      "clue": "Bring a platform into existence (6)",
+      "definition": "To bring something into existence, typically a unique object, concept, or artistic work.",
+      "source_url": "https://www.benzinga.com/news/25/12/49530315/kkr-partners-with-green-mobility-partners-to-create-leading-european-rail-leasing-platform",
+      "startX": 20,
+      "startY": 7,
+      "direction": "vertical",
+      "length": 6
+    },
+    {
+      "word": "RAIL",
+      "clue": "Line used for leasing platforms (4)",
+      "definition": "A bar or series of bars, typically made of steel, serving as part of a track or barrier.",
+      "source_url": "https://www.benzinga.com/news/25/12/49530315/kkr-partners-with-green-mobility-partners-to-create-leading-european-rail-leasing-platform",
+      "startX": 17,
+      "startY": 15,
       "direction": "vertical",
       "length": 4
     }
   ],
-  "generated_at_utc": "2025-12-21T08:21:45.831503",
-  "title": "Daily News Crossword: 2025-12-21"
+  "generated_at_utc": "2025-12-22T08:26:26.119402",
+  "title": "Daily News Crossword: 2025-12-22"
 }
