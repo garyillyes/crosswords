@@ -1,248 +1,258 @@
 {
-  "width": 16,
-  "height": 22,
+  "width": 22,
+  "height": 18,
   "words": [
     {
-      "word": "WIDENING",
-      "clue": "The chip market is becoming broader.",
-      "definition": "The action or process of making or becoming broader.",
-      "source_url": "https://www.benzinga.com/markets/equities/25/12/49624396/nvidia-broadcom-can-both-win-as-physical-ai-set-to-be-next-multi-trillion-dollar-opportunity-says-daniel-newman",
-      "startX": 3,
-      "startY": 7,
+      "word": "PROGRAM",
+      "clue": "Repurchase scheme extended until 2027.",
+      "definition": "A planned series of actions or steps to achieve an objective.",
+      "source_url": "https://www.benzinga.com/news/25/12/49643443/rlx-technology-extends-share-repurchase-program-through-2027-with-up-to-170m-remaining-under-500m-au",
+      "startX": 12,
+      "startY": 13,
       "direction": "horizontal",
-      "length": 8
+      "length": 7
     },
     {
-      "word": "VIEWS",
-      "clue": "Documentary hits 200 million stream counts.",
-      "definition": "Opinions or ways of seeing things, or the number of times digital content is accessed.",
-      "source_url": "https://www.benzinga.com/markets/tech/25/12/49624265/ivanka-trump-congratulates-google-deepmind-ceo-as-the-thinking-game-crosses-200-million-views-on-youtube-calls-it-an-amazing-documentary",
-      "startX": 4,
+      "word": "WEALTH",
+      "clue": "Musk's assets, mostly tied to Tesla.",
+      "definition": "An abundance of valuable possessions or ample resources.",
+      "source_url": "https://www.benzinga.com/markets/tech/25/12/49642616/elon-musk-says-his-wealth-is-tied-to-tesla-spacex-shares-criticizes-taker-bernie-sanders",
+      "startX": 17,
+      "startY": 11,
+      "direction": "vertical",
+      "length": 6
+    },
+    {
+      "word": "FEDERAL",
+      "clue": "Contracts coming from Washington DC.",
+      "definition": "Relating to or denoting the central government of a country.",
+      "source_url": "https://www.benzinga.com/markets/tech/25/12/49643049/tesla-spacex-benefited-heavily-from-federal-contracts-says-ross-gerber-massive-contribution",
+      "startX": 13,
+      "startY": 9,
+      "direction": "vertical",
+      "length": 7
+    },
+    {
+      "word": "TARIFFS",
+      "clue": "Taxes levied on imported beef.",
+      "definition": "Official schedules of duties imposed by a government on the value of products crossing its borders.",
+      "source_url": "https://www.benzinga.com/news/25/12/49643426/china-commerce-ministry-rules-on-imported-beef-probe-to-impose-up-to-55-additional-tariffs-from-2026",
+      "startX": 8,
+      "startY": 9,
+      "direction": "horizontal",
+      "length": 7
+    },
+    {
+      "word": "SKILL",
+      "clue": "Mr. Wonderful identifies this overlooked media trait.",
+      "definition": "The ability to do something well; expertise.",
+      "source_url": "https://www.benzinga.com/markets/tech/25/12/49643081/kevin-oleary-says-he-could-make-10000-in-30-days-if-he-had-to-start-from-0-today-by-just-using-this-one-overlooked-social-media-skill",
+      "startX": 11,
+      "startY": 7,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "TOKEN",
+      "clue": "Crypto unit bucked the memecoin slump.",
+      "definition": "A digital representation of an asset or utility, usually deployed on a blockchain.",
+      "source_url": "https://www.benzinga.com/crypto/cryptocurrency/25/12/49643090/trump-coin-and-this-token-emerge-victorious-in-a-year-marked-by-memecoin-bloodbath-dogecoin-shiba-inu-end-2025-lower",
+      "startX": 17,
+      "startY": 15,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "UNITS",
+      "clue": "Specialized enforcement groups now in place.",
+      "definition": "Individual items, persons, or groups regarded as single entities.",
+      "source_url": "https://www.benzinga.com/news/politics/25/12/49643068/tim-walz-says-while-trump-pardons-minnesota-cracks-down-on-pandemic-era-fraud-the-buck-stops-with-me",
+      "startX": 8,
       "startY": 6,
       "direction": "vertical",
       "length": 5
     },
     {
-      "word": "AWARDS",
-      "clue": "Pentagon grants a big contract.",
-      "definition": "To bestow or confer something, usually a prize or contract, officially.",
-      "source_url": "https://www.benzinga.com/news/contracts/25/12/49624725/pentagon-awards-boeing-8-6-billion-contract-for-israeli-f-15-fighter-jets-as-trump-seriously-mulls-turkey-jet-sale",
-      "startX": 3,
-      "startY": 9,
-      "direction": "horizontal",
-      "length": 6
-    },
-    {
-      "word": "STOCKS",
-      "clue": "Shares that fell 100 points on the Nasdaq.",
-      "definition": "The capital raised by a business or corporation through the issue and subscription of shares.",
-      "source_url": "https://www.benzinga.com/news/25/12/49624287/nasdaq-falls-over-100-points-amid-decline-in-tech-stocks-investor-sentiment-weakens-fear-greed-index-in-neutral-zone",
-      "startX": 8,
-      "startY": 9,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "RIGGED",
-      "clue": "Warren's view of the economy being fixed unfairly.",
-      "definition": "Managed or controlled fraudulently; engineered for a predetermined outcome.",
-      "source_url": "https://www.benzinga.com/news/politics/25/12/49624715/elizabeth-warren-says-economy-is-rigged-against-hardworking-americans-and-democrats-have-to-fix-it",
-      "startX": 10,
-      "startY": 5,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "BRIGHT",
-      "clue": "Himax display offers high intensity of light.",
-      "definition": "Radiating or reflecting much light; shining.",
-      "source_url": "https://www.benzinga.com/news/25/12/49624634/himax-and-auo-introduce-high-brightness-ultra-low-power-lcos-microdisplay-targeting-ar-glasses-at-ce",
-      "startX": 9,
-      "startY": 5,
-      "direction": "horizontal",
-      "length": 6
-    },
-    {
-      "word": "MULLS",
-      "clue": "Trump seriously ponders Turkey sale.",
-      "definition": "To think about a matter deeply and at length; contemplate.",
-      "source_url": "https://www.benzinga.com/news/contracts/25/12/49624725/pentagon-awards-boeing-8-6-billion-contract-for-israeli-f-15-fighter-jets-as-trump-seriously-mulls-turkey-jet-sale",
-      "startX": 4,
-      "startY": 14,
-      "direction": "horizontal",
-      "length": 5
-    },
-    {
-      "word": "GROWTH",
-      "clue": "Expansion supported by Society Pass $3M offering.",
-      "definition": "The process of increasing in physical size or complexity.",
-      "source_url": "https://www.benzinga.com/news/25/12/49624405/reported-earlier-society-pass-prices-3m-public-offering-of-1-5m-common-shares-priced-at-2-00-per-sha",
-      "startX": 10,
-      "startY": 8,
-      "direction": "horizontal",
-      "length": 6
-    },
-    {
-      "word": "WATER",
-      "clue": "H2O utility in California gets approval for new rates.",
-      "definition": "A colorless, transparent, odorless liquid essential for life.",
-      "source_url": "https://www.benzinga.com/news/25/12/49624651/reported-earlier-california-water-service-secures-cpuc-approval-for-temporary-rate-adjustments-amid",
-      "startX": 13,
-      "startY": 8,
-      "direction": "vertical",
-      "length": 5
-    },
-    {
-      "word": "HOUSE",
-      "clue": "Executive residence in DC confirms extension.",
-      "definition": "A building for human habitation, especially one that is separate or distinct from others.",
-      "source_url": "https://www.benzinga.com/news/25/12/49624748/white-house-announces-implementation-and-temporary-extension-of-key-provisions-in-u-s-israel-agreeme",
-      "startX": 15,
-      "startY": 8,
-      "direction": "vertical",
-      "length": 5
-    },
-    {
-      "word": "TITLE",
-      "clue": "The main name or label for EuroLeague sponsorship.",
-      "definition": "The name of a book, composition, or other artistic work.",
-      "source_url": "https://www.benzinga.com/news/25/12/49624623/reported-earlier-golden-matrix-subsidiary-meridianbet-renews-long-term-title-sponsorship-with-eurole",
-      "startX": 6,
+      "word": "RALLIES",
+      "clue": "Chiliz shows sudden market increases.",
+      "definition": "To recover or suddenly improve, particularly in market prices or sentiment after a decline.",
+      "source_url": "https://www.benzinga.com/crypto/cryptocurrency/25/12/49642667/chilizs-native-token-rallies-10-leaves-bitcoin-ethereum-in-the-dust-whats-going-on-with-chz",
+      "startX": 14,
       "startY": 3,
       "direction": "vertical",
-      "length": 5
+      "length": 7
     },
     {
-      "word": "LOAN",
-      "clue": "$75M repaid senior debt facility.",
-      "definition": "A sum of money that is expected to be paid back, typically with interest.",
-      "source_url": "https://www.benzinga.com/news/25/12/49624611/reported-earlier-mesoblast-repays-oaktree-senior-loan-using-75m-from-new-five-year-facility-with-opt",
-      "startX": 6,
-      "startY": 14,
-      "direction": "vertical",
-      "length": 4
-    },
-    {
-      "word": "JETS",
-      "clue": "Fighter planes supplied by Boeing for $8.6B.",
-      "definition": "Aircraft powered by gas turbines, typically designed for rapid flight.",
-      "source_url": "https://www.benzinga.com/news/25/12/49624734/reported-earlier-boeing-secures-8-6b-us-defense-contract-to-supply-next-generation-f-15ia-jets-to-is",
-      "startX": 12,
-      "startY": 11,
-      "direction": "horizontal",
-      "length": 4
-    },
-    {
-      "word": "FRAUD",
-      "clue": "PPP investigation reveals deception ($430M worth).",
-      "definition": "Wrongful or criminal deception intended to result in financial or personal gain.",
-      "source_url": "https://www.benzinga.com/news/politics/25/12/49624633/tim-walz-oversight-failures-blamed-by-sba-administrator-kelly-loeffler-as-agency-halts-minnesota-funding-amid-430-million-ppp-fraud-probe",
-      "startX": 4,
-      "startY": 16,
-      "direction": "horizontal",
-      "length": 5
-    },
-    {
-      "word": "ACQUIRE",
-      "clue": "OceanFirst plans to take over Flushing for $579M.",
-      "definition": "To obtain or gain possession of something.",
-      "source_url": "https://www.benzinga.com/m-a/25/12/49624596/reported-earlier-oceanfirst-to-acquire-flushing-in-all-stock-deal-valued-at-579m-building-23b-bank-w",
+      "word": "PARDONS",
+      "clue": "Trump issues official forgivenesses, Walz criticizes.",
+      "definition": "Legal decrees that exempt specified individuals from punishment for an offense.",
+      "source_url": "https://www.benzinga.com/news/politics/25/12/49643068/tim-walz-says-while-trump-pardons-minnesota-cracks-down-on-pandemic-era-fraud-the-buck-stops-with-me",
       "startX": 2,
-      "startY": 4,
+      "startY": 10,
       "direction": "horizontal",
       "length": 7
     },
     {
-      "word": "AGENCY",
-      "clue": "The SBA, for instance, halts Minnesota checks.",
-      "definition": "A business or organization providing a particular service on behalf of another.",
-      "source_url": "https://www.benzinga.com/news/politics/25/12/49624633/tim-walz-oversight-failures-blamed-by-sba-administrator-kelly-loeffler-as-agency-halts-minnesota-funding-amid-430-million-ppp-fraud-probe",
-      "startX": 3,
-      "startY": 0,
+      "word": "IMPORTS",
+      "clue": "Goods brought in from Brazil and Argentina.",
+      "definition": "Commodities, goods, or services purchased domestically but manufactured or provided in a foreign country.",
+      "source_url": "https://www.benzinga.com/news/25/12/49643426/china-commerce-ministry-rules-on-imported-beef-probe-to-impose-up-to-55-additional-tariffs-from-2026",
+      "startX": 2,
+      "startY": 8,
+      "direction": "vertical",
+      "length": 7
+    },
+    {
+      "word": "DEMAND",
+      "clue": "Consumer request that currently surges.",
+      "definition": "The quantity of a commodity or service that people wish to purchase at a specified price.",
+      "source_url": "https://www.benzinga.com/news/25/12/49643455/nvidia-sounds-out-tsmc-on-new-h200-chip-order-as-china-demand-jumps-sources-say-reuters-exclusive",
+      "startX": 5,
+      "startY": 5,
       "direction": "vertical",
       "length": 6
     },
     {
-      "word": "ASSET",
-      "clue": "Logistics center is a single valuable resource KKR picked up.",
-      "definition": "A useful or valuable thing, person, or quality.",
-      "source_url": "https://www.benzinga.com/news/25/12/49624415/reported-earlier-kkr-acquires-fully-leased-cheongna-logistics-center-in-incheon-in-koreas-largest-si",
+      "word": "SHARE",
+      "clue": "Fractional ownership extended by RLX.",
+      "definition": "Any of the equal parts into which a company's capital is divided, entitling the holder to a proportion of the profits.",
+      "source_url": "https://www.benzinga.com/news/25/12/49643443/rlx-technology-extends-share-repurchase-program-through-2027-with-up-to-170m-remaining-under-500m-au",
+      "startX": 12,
+      "startY": 4,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "SURGED",
+      "clue": "iSpecimen price increase, 42% after hours.",
+      "definition": "Rose suddenly and intensely, often referring to a powerful wave or large increase.",
+      "source_url": "https://www.benzinga.com/markets/equities/25/12/49643100/ispecimen-inc-ispc-stock-surged-42-after-hours-heres-the-news-behind-the-move",
       "startX": 0,
+      "startY": 5,
+      "direction": "horizontal",
+      "length": 6
+    },
+    {
+      "word": "BUCK",
+      "clue": "The money stops here, according to Walz.",
+      "definition": "A common informal term for one unit of currency, such as a dollar.",
+      "source_url": "https://www.benzinga.com/news/politics/25/12/49643068/tim-walz-says-while-trump-pardons-minnesota-cracks-down-on-pandemic-era-fraud-the-buck-stops-with-me",
+      "startX": 1,
+      "startY": 4,
+      "direction": "vertical",
+      "length": 4
+    },
+    {
+      "word": "JUMPS",
+      "clue": "Shares or requests suddenly rise high.",
+      "definition": "To move quickly and suddenly upwards or forwards through the air.",
+      "source_url": "https://www.benzinga.com/news/25/12/49643455/nvidia-sounds-out-tsmc-on-new-h200-chip-order-as-china-demand-jumps-sources-say-reuters-exclusive",
+      "startX": 12,
+      "startY": 0,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "FRAUD",
+      "clue": "Minnesota cracks down on deception.",
+      "definition": "Wrongful or criminal deception intended to result in financial or personal gain.",
+      "source_url": "https://www.benzinga.com/news/politics/25/12/49643068/tim-walz-says-while-trump-pardons-minnesota-cracks-down-on-pandemic-era-fraud-the-buck-stops-with-me",
+      "startX": 9,
+      "startY": 1,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "GROUP",
+      "clue": "SoftBank organizational structure.",
+      "definition": "A number of people or things that are located, gathered, or classed together.",
+      "source_url": "https://www.benzinga.com/news/25/12/49643399/softbank-group-corp-completes-additional-22-5b-openai-investment-fully-funding-march-2025-commitment",
+      "startX": 15,
+      "startY": 13,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "STOCK",
+      "clue": "Instrument of trade remains near 52-week low.",
+      "definition": "Securities representing an ownership interest in a corporation.",
+      "source_url": "https://www.benzinga.com/markets/equities/25/12/49643167/what-sparked-urgent-ly-ulys-33-jump-in-after-hours-trading",
+      "startX": 1,
+      "startY": 13,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "INDEX",
+      "clue": "The S&P 500 measure showing sentiment.",
+      "definition": "A ratio or measure used to indicate the change in a variable or a combination of variables over time.",
+      "source_url": "https://www.benzinga.com/news/25/12/49642984/sp-500-falls-for-third-session-investor-sentiment-declines-fear-greed-index-remains-in-neutral-zone",
+      "startX": 16,
+      "startY": 1,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "CHIEF",
+      "clue": "Buffett\u2019s rank, ending after 55 years.",
+      "definition": "The head or ruler of an organization or hierarchy.",
+      "source_url": "https://www.benzinga.com/markets/equities/25/12/49643109/warren-buffetts-last-day-at-berkshire-hathaway-heres-a-look-at-the-oracle-of-omahas-final-score-card-after-55-years-at-the-helm",
+      "startX": 4,
+      "startY": 13,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "NVIDIA",
+      "clue": "GPU giant ordering chips for H200.",
+      "definition": "A multinational technology company that designs graphics processing units for the gaming and professional markets.",
+      "source_url": "https://www.benzinga.com/news/25/12/49643455/nvidia-sounds-out-tsmc-on-new-h200-chip-order-as-china-demand-jumps-sources-say-reuters-exclusive",
+      "startX": 16,
       "startY": 2,
       "direction": "horizontal",
-      "length": 5
-    },
-    {
-      "word": "MUSK",
-      "clue": "Bernie questions the tech CEO about feeding people.",
-      "definition": "A very wealthy and influential entrepreneur known for founding companies like Tesla and SpaceX.",
-      "source_url": "https://www.benzinga.com/markets/tech/25/12/49624138/bernie-sanders-asks-elon-musk-bill-gates-this-simple-question-amid-robotics-ai-push-how-will-people-feed",
-      "startX": 1,
-      "startY": 0,
-      "direction": "vertical",
-      "length": 4
-    },
-    {
-      "word": "FOCUS",
-      "clue": "Digital infrastructure maintains its point of concentration.",
-      "definition": "The center of interest or activity.",
-      "source_url": "https://www.benzinga.com/news/25/12/49624587/reported-earlier-new-era-energy-digital-issues-firm-response-to-new-mexico-lawsuit-defends-leadershi",
-      "startX": 6,
-      "startY": 12,
-      "direction": "horizontal",
-      "length": 5
-    },
-    {
-      "word": "TRADE",
-      "clue": "Commercial exchange covered by US-Israel agreement.",
-      "definition": "The action of buying and selling goods and services; commerce.",
-      "source_url": "https://www.benzinga.com/news/25/12/49624748/white-house-announces-implementation-and-temporary-extension-of-key-provisions-in-u-s-israel-agreeme",
-      "startX": 8,
-      "startY": 0,
-      "direction": "vertical",
-      "length": 5
-    },
-    {
-      "word": "DEBATE",
-      "clue": "Formal argument over the deepening K-shape.",
-      "definition": "A formal discussion on a particular topic in a legislative body or public assembly.",
-      "source_url": "https://www.benzinga.com/news/politics/25/12/49624715/elizabeth-warren-says-economy-is-rigged-against-hardworking-americans-and-democrats-have-to-fix-it",
-      "startX": 8,
-      "startY": 16,
-      "direction": "vertical",
       "length": 6
     },
     {
-      "word": "CRYPTO",
-      "clue": "Digital asset class supported by Justin Sun.",
-      "definition": "A digital medium of exchange secured by cryptography, operating independently of a central bank.",
-      "source_url": "https://www.benzinga.com/crypto/cryptocurrency/25/12/49624346/crypto-billionaire-justin-sun-backed-coin-outshines-bitcoin-ethereum-with-a-12-rally-in-2025-heres-what-worked-for-tron",
-      "startX": 14,
+      "word": "VALUE",
+      "clue": "Market worth shrank by more than half.",
+      "definition": "The regard that something is held to deserve; the importance, worth, or usefulness of something.",
+      "source_url": "https://www.benzinga.com/crypto/cryptocurrency/25/12/49643090/trump-coin-and-this-token-emerge-victorious-in-a-year-marked-by-memecoin-bloodbath-dogecoin-shiba-inu-end-2025-lower",
+      "startX": 20,
+      "startY": 11,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "PROBE",
+      "clue": "Beef inquiry related to trade duties.",
+      "definition": "A thorough investigation, especially into a crime or other questionable activities.",
+      "source_url": "https://www.benzinga.com/news/25/12/49643426/china-commerce-ministry-rules-on-imported-beef-probe-to-impose-up-to-55-additional-tariffs-from-2026",
+      "startX": 4,
       "startY": 1,
       "direction": "vertical",
-      "length": 6
+      "length": 5
     },
     {
-      "word": "RAIL",
-      "clue": "Newsom project involves tracks and trains.",
-      "definition": "A track or way consisting of parallel steel bars fixed to a suitable base, used by trains or trolleys.",
-      "source_url": "https://www.benzinga.com/news/politics/25/12/49624335/gavin-newsom-says-california-high-speed-rail-project-has-entered-track-laying-phase-despite-trumps-funding-cut-regularly-passed-audits",
-      "startX": 8,
-      "startY": 1,
-      "direction": "horizontal",
-      "length": 4
-    },
-    {
-      "word": "FIX",
-      "clue": "Repair or sort it out, according to Democrats.",
-      "definition": "To mend or restore something that is damaged or broken.",
-      "source_url": "https://www.benzinga.com/news/politics/25/12/49624715/elizabeth-warren-says-economy-is-rigged-against-hardworking-americans-and-democrats-have-to-fix-it",
-      "startX": 10,
+      "word": "CHINA",
+      "clue": "Beijing's nation sees chip demand jump.",
+      "definition": "The most populous country in the world, located in East Asia, officially known as the People's Republic.",
+      "source_url": "https://www.benzinga.com/news/25/12/49643455/nvidia-sounds-out-tsmc-on-new-h200-chip-order-as-china-demand-jumps-sources-say-reuters-exclusive",
+      "startX": 18,
       "startY": 0,
       "direction": "vertical",
-      "length": 3
+      "length": 5
+    },
+    {
+      "word": "FUNDS",
+      "clue": "Money dedicated to an investment.",
+      "definition": "Reserves of assets or cash available for spending or capital deployment.",
+      "source_url": "https://www.benzinga.com/news/25/12/49643399/softbank-group-corp-completes-additional-22-5b-openai-investment-fully-funding-march-2025-commitment",
+      "startX": 4,
+      "startY": 17,
+      "direction": "horizontal",
+      "length": 5
     }
   ],
-  "generated_at_utc": "2025-12-30T08:25:15.852673",
-  "title": "Daily News Crossword: 2025-12-30"
+  "generated_at_utc": "2025-12-31T08:25:22.127926",
+  "title": "Daily News Crossword: 2025-12-31"
 }
