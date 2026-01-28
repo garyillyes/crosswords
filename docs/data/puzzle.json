@@ -1,258 +1,258 @@
 {
-  "width": 27,
-  "height": 22,
+  "width": 24,
+  "height": 26,
   "words": [
     {
-      "word": "ESTIMATE",
-      "clue": "Earnings expectation missed or surpassed.",
-      "definition": "An approximate calculation or judgment of the value, quantity, or extent of something.",
-      "source_url": "https://www.benzinga.com/news/earnings/26/01/50148102/five-star-q4-eps-0-83-beats-0-76-estimate-sales-43-465m-beat-42-577m-estimate",
-      "startX": 12,
-      "startY": 10,
+      "word": "PROCEEDS",
+      "clue": "$97M left over after expenses are deducted from the offering.",
+      "definition": "The money or other things received from a sale or transaction.",
+      "source_url": "https://www.benzinga.com/news/26/01/50181010/reported-earlier-runway-growth-finance-corp-prices-100m-offering-of-7-25-notes-due-2031-with-net-pro",
+      "startX": 4,
+      "startY": 13,
       "direction": "horizontal",
       "length": 8
-    },
-    {
-      "word": "PLANNED",
-      "clue": "Departure that was arranged beforehand.",
-      "definition": "Decided upon or arranged in advance.",
-      "source_url": "https://www.benzinga.com/news/26/01/50148194/reported-earlier-gauzy-names-dan-oshri-as-interim-cfo-following-planned-departure-of-cfo-meir-peleg",
-      "startX": 19,
-      "startY": 5,
-      "direction": "vertical",
-      "length": 7
-    },
-    {
-      "word": "UPGRADE",
-      "clue": "Giving Greece a higher classification.",
-      "definition": "To raise something to a higher standard or improve its quality or condition.",
-      "source_url": "https://www.benzinga.com/news/26/01/50148156/reported-earlier-msci-initiates-market-consultation-on-potential-greece-upgrade-to-developed-market",
-      "startX": 12,
-      "startY": 4,
-      "direction": "vertical",
-      "length": 7
-    },
-    {
-      "word": "SURVIVAL",
-      "clue": "The 84% Ryoncil achieved in children.",
-      "definition": "The state or fact of continuing to live or exist, especially in spite of difficult circumstances.",
-      "source_url": "https://www.benzinga.com/news/26/01/50147941/reported-earlier-mesoblasts-ryoncil-demonstrates-84-survival-in-children-with-sr-agvhd-following-com",
-      "startX": 17,
-      "startY": 4,
-      "direction": "vertical",
-      "length": 8
-    },
-    {
-      "word": "BEATS",
-      "clue": "Five Star exceeded expectations.",
-      "definition": "Defeats or surpasses a standard, opponent, or predetermined value.",
-      "source_url": "https://www.benzinga.com/news/earnings/26/01/50148102/five-star-q4-eps-0-83-beats-0-76-estimate-sales-43-465m-beat-42-577m-estimate",
-      "startX": 10,
-      "startY": 8,
-      "direction": "horizontal",
-      "length": 5
-    },
-    {
-      "word": "NOTES",
-      "clue": "Connectivity sold these debt instruments.",
-      "definition": "Short written records of facts, or written promises to pay a debt.",
-      "source_url": "https://www.benzinga.com/news/26/01/50148089/reported-earlier-te-connectivity-prices-senior-notes-offerings-totaling-750m-with-200m-4-500-notes-d",
-      "startX": 19,
-      "startY": 8,
-      "direction": "horizontal",
-      "length": 5
-    },
-    {
-      "word": "INVEST",
-      "clue": "Put money into Singapore for future gain.",
-      "definition": "To commit capital in order to obtain a return or income.",
-      "source_url": "https://www.benzinga.com/markets/tech/26/01/50148171/micron-plans-nearly-24-billion-singapore-investment-to-address-ai-driven-demand",
-      "startX": 15,
-      "startY": 10,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "APPS",
-      "clue": "Small programs you use on your phone.",
-      "definition": "Computer programs designed to run on smartphones or tablets, often performing specific tasks.",
-      "source_url": "https://www.benzinga.com/news/26/01/50148210/zscaler-announces-ai-security-suite-to-secure-ai-apps-models-agents-and-infrastructure-at-scale",
-      "startX": 14,
-      "startY": 5,
-      "direction": "vertical",
-      "length": 4
-    },
-    {
-      "word": "LAUNDRY",
-      "clue": "UV clean part of Whirlpool reveal.",
-      "definition": "Clothes and linens that need washing or have just been washed.",
-      "source_url": "https://www.benzinga.com/news/26/01/50148138/reported-earlier-whirlpool-to-unveil-industry-first-nugget-ice-in-refrigerator-uv-clean-laundry-live",
-      "startX": 19,
-      "startY": 6,
-      "direction": "horizontal",
-      "length": 7
-    },
-    {
-      "word": "NEARLY",
-      "clue": "Close to $24 billion spent.",
-      "definition": "Very close to; almost.",
-      "source_url": "https://www.benzinga.com/markets/tech/26/01/50148171/micron-plans-nearly-24-billion-singapore-investment-to-address-ai-driven-demand",
-      "startX": 14,
-      "startY": 13,
-      "direction": "horizontal",
-      "length": 6
-    },
-    {
-      "word": "MARKET",
-      "clue": "Greece wants to be a developed one.",
-      "definition": "A place where buyers and sellers meet to exchange goods, services, or assets.",
-      "source_url": "https://www.benzinga.com/news/26/01/50148156/reported-earlier-msci-initiates-market-consultation-on-potential-greece-upgrade-to-developed-market",
-      "startX": 10,
-      "startY": 15,
-      "direction": "horizontal",
-      "length": 6
-    },
-    {
-      "word": "INTERIM",
-      "clue": "Serving temporarily, like CFO Oshri.",
-      "definition": "The time between one event and another, often referring to a temporary period of duty or office.",
-      "source_url": "https://www.benzinga.com/news/26/01/50148194/reported-earlier-gauzy-names-dan-oshri-as-interim-cfo-following-planned-departure-of-cfo-meir-peleg",
-      "startX": 22,
-      "startY": 5,
-      "direction": "vertical",
-      "length": 7
-    },
-    {
-      "word": "SENIOR",
-      "clue": "Higher ranking debt offering.",
-      "definition": "Higher in rank or status, or relating to older individuals.",
-      "source_url": "https://www.benzinga.com/news/26/01/50148089/reported-earlier-te-connectivity-prices-senior-notes-offerings-totaling-750m-with-200m-4-500-notes-d",
-      "startX": 24,
-      "startY": 1,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "DELI",
-      "clue": "McAlister's sandwich shop abbreviation.",
-      "definition": "A store selling prepared foods such as cold cuts, cheeses, and salads.",
-      "source_url": "https://www.benzinga.com/news/26/01/50148147/reported-earlier-fcpt-announces-acquisition-of-mcalisters-deli-property-for-2-3m-in-michigan",
-      "startX": 23,
-      "startY": 2,
-      "direction": "horizontal",
-      "length": 4
-    },
-    {
-      "word": "DEMAND",
-      "clue": "AI driving the necessity for new chips.",
-      "definition": "An insistent or peremptory request, or the desire for a particular commodity or service.",
-      "source_url": "https://www.benzinga.com/markets/tech/26/01/50148171/micron-plans-nearly-24-billion-singapore-investment-to-address-ai-driven-demand",
-      "startX": 10,
-      "startY": 13,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "CAMERA",
-      "clue": "Live Look device for the fridge.",
-      "definition": "An apparatus used to record visual images, either as photographs or as moving pictures.",
-      "source_url": "https://www.benzinga.com/news/26/01/50148138/reported-earlier-whirlpool-to-unveil-industry-first-nugget-ice-in-refrigerator-uv-clean-laundry-live",
-      "startX": 5,
-      "startY": 16,
-      "direction": "horizontal",
-      "length": 6
-    },
-    {
-      "word": "UNVEIL",
-      "clue": "Whirlpool plans to show its new ice maker.",
-      "definition": "To remove a covering from, or to reveal or disclose something previously secret or hidden.",
-      "source_url": "https://www.benzinga.com/news/26/01/50148138/reported-earlier-whirlpool-to-unveil-industry-first-nugget-ice-in-refrigerator-uv-clean-laundry-live",
-      "startX": 8,
-      "startY": 13,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "NAMES",
-      "clue": "Gauzy designates new leaders.",
-      "definition": "To give an appellation to someone or something, or a list of individuals.",
-      "source_url": "https://www.benzinga.com/news/26/01/50148194/reported-earlier-gauzy-names-dan-oshri-as-interim-cfo-following-planned-departure-of-cfo-meir-peleg",
-      "startX": 10,
-      "startY": 17,
-      "direction": "horizontal",
-      "length": 5
-    },
-    {
-      "word": "SECURE",
-      "clue": "Guard the artificial intelligence, 1-0 win?",
-      "definition": "To fix or attach something firmly, or to gain possession of something difficult to obtain.",
-      "source_url": "https://www.benzinga.com/news/26/01/50148210/zscaler-announces-ai-security-suite-to-secure-ai-apps-models-agents-and-infrastructure-at-scale",
-      "startX": 5,
-      "startY": 14,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "MODELS",
-      "clue": "Fashion figures or AI frameworks.",
-      "definition": "Representations, usually on a smaller scale, of an object or system; also, individuals employed to display clothing or pose for artwork.",
-      "source_url": "https://www.benzinga.com/news/26/01/50148210/zscaler-announces-ai-security-suite-to-secure-ai-apps-models-agents-and-infrastructure-at-scale",
-      "startX": 0,
-      "startY": 14,
-      "direction": "horizontal",
-      "length": 6
-    },
-    {
-      "word": "PLANS",
-      "clue": "Micron's Singapore blueprints.",
-      "definition": "Detailed proposals for doing or achieving something in the future.",
-      "source_url": "https://www.benzinga.com/markets/tech/26/01/50148171/micron-plans-nearly-24-billion-singapore-investment-to-address-ai-driven-demand",
-      "startX": 18,
-      "startY": 12,
-      "direction": "vertical",
-      "length": 5
-    },
-    {
-      "word": "SUITE",
-      "clue": "Zscaler's software collection, or a hotel room collection.",
-      "definition": "A set of related software programs or a connected series of rooms designed for a specific purpose.",
-      "source_url": "https://www.benzinga.com/news/26/01/50148210/zscaler-announces-ai-security-suite-to-secure-ai-apps-models-agents-and-infrastructure-at-scale",
-      "startX": 14,
-      "startY": 17,
-      "direction": "vertical",
-      "length": 5
-    },
-    {
-      "word": "PROGRAM",
-      "clue": "Repurchase plan authorized by Provident Financial.",
-      "definition": "A planned series of future events, performances, or activities; also, instructions for a computer.",
-      "source_url": "https://www.benzinga.com/news/26/01/50148124/reported-earlier-provident-financial-services-authorizes-new-stock-repurchase-program-for-up-to-2-81",
-      "startX": 1,
-      "startY": 12,
-      "direction": "vertical",
-      "length": 7
     },
     {
       "word": "STOCK",
-      "clue": "Repurchased company shares.",
-      "definition": "The capital raised by a business or corporation through the issue and subscription of shares.",
-      "source_url": "https://www.benzinga.com/news/26/01/50148124/reported-earlier-provident-financial-services-authorizes-new-stock-repurchase-program-for-up-to-2-81",
-      "startX": 18,
+      "clue": "C3is equity that surged 15.59% after hours.",
+      "definition": "The capital raised by a business or corporation through the issue of shares.",
+      "source_url": "https://www.benzinga.com/markets/equities/26/01/50180974/c3is-stock-rises-over-15-after-hours-heres-what-you-should-know",
+      "startX": 7,
+      "startY": 10,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "REALITY",
+      "clue": "The state of things as they actually exist, financially speaking.",
+      "definition": "The world or the state of things as they exist, as opposed to an idealized or conceptual view.",
+      "source_url": "https://www.benzinga.com/news/politics/26/01/50180960/anthony-scaramucci-says-you-need-131000-for-basic-stability-in-us-while-median-income-is-84000-is-this-how-we-want-people-to-live",
+      "startX": 9,
+      "startY": 12,
+      "direction": "vertical",
+      "length": 7
+    },
+    {
+      "word": "PRICING",
+      "clue": "Setting the rate for the 50M equity offering.",
+      "definition": "The act of assigning a monetary value to a product or asset.",
+      "source_url": "https://www.benzinga.com/news/26/01/50180995/reported-earlier-standardaero-announces-pricing-of-secondary-offering-of-50m-common-shares-at-31-00",
+      "startX": 5,
+      "startY": 12,
+      "direction": "vertical",
+      "length": 7
+    },
+    {
+      "word": "INDEX",
+      "clue": "The Fear gauge entered the 'Greed' zone.",
+      "definition": "An indicator, sign, or measure of something; a statistical measure reflecting changes in a characteristic.",
+      "source_url": "https://www.benzinga.com/markets/equities/26/01/50180864/sp-500-hits-record-high-ahead-of-key-earnings-interest-rate-decision-investor-sentiment-improves-fear-index-in-greed-zone",
+      "startX": 9,
       "startY": 16,
       "direction": "horizontal",
       "length": 5
     },
     {
-      "word": "PRINT",
-      "clue": "Another word for earnings report.",
-      "definition": "The final typed or published text, or the process of reproducing text or images on a surface.",
-      "source_url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/01/50147964/northrop-grumman-gears-up-for-q4-print-here-are-the-recent-forecast-changes-from-wall-streets-most-accurate-analysts",
-      "startX": 26,
+      "word": "COMMON",
+      "clue": "Stock class owned by the general public, not preferred.",
+      "definition": "Occurring, found, or done often; typical.",
+      "source_url": "https://www.benzinga.com/news/26/01/50180995/reported-earlier-standardaero-announces-pricing-of-secondary-offering-of-50m-common-shares-at-31-00",
+      "startX": 0,
+      "startY": 17,
+      "direction": "horizontal",
+      "length": 6
+    },
+    {
+      "word": "HOURS",
+      "clue": "Trading time period following the market close.",
+      "definition": "Periods of sixty minutes; a measure of time.",
+      "source_url": "https://www.benzinga.com/markets/equities/26/01/50180974/c3is-stock-rises-over-15-after-hours-heres-what-you-should-know",
+      "startX": 3,
+      "startY": 10,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "RISES",
+      "clue": "What C3is equity does by over 15%.",
+      "definition": "To move upward; increase in amount or volume.",
+      "source_url": "https://www.benzinga.com/markets/equities/26/01/50180974/c3is-stock-rises-over-15-after-hours-heres-what-you-should-know",
+      "startX": 11,
+      "startY": 9,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "FINANCE",
+      "clue": "The management of large amounts of money, especially by governments or companies.",
+      "definition": "Activities associated with banking, dealing with credit, investments, and funds.",
+      "source_url": "https://www.benzinga.com/news/26/01/50181010/reported-earlier-runway-growth-finance-corp-prices-100m-offering-of-7-25-notes-due-2031-with-net-pro",
+      "startX": 0,
+      "startY": 15,
+      "direction": "horizontal",
+      "length": 7
+    },
+    {
+      "word": "PRICES",
+      "clue": "What $31.00 does to the secondary offering.",
+      "definition": "Determines the monetary value assigned to an asset or service.",
+      "source_url": "https://www.benzinga.com/news/26/01/50181010/reported-earlier-runway-growth-finance-corp-prices-100m-offering-of-7-25-notes-due-2031-with-net-pro",
+      "startX": 9,
+      "startY": 10,
+      "direction": "horizontal",
+      "length": 6
+    },
+    {
+      "word": "SHARES",
+      "clue": "Common portions of ownership in StandardAero.",
+      "definition": "Units of equitable ownership interest in a corporation or financial asset.",
+      "source_url": "https://www.benzinga.com/news/26/01/50180995/reported-earlier-standardaero-announces-pricing-of-secondary-offering-of-50m-common-shares-at-31-00",
+      "startX": 14,
+      "startY": 5,
+      "direction": "vertical",
+      "length": 6
+    },
+    {
+      "word": "FORECAST",
+      "clue": "Anthropic updates this projection by 20%.",
+      "definition": "A calculation or estimate of future events, especially relating to weather or financial trends.",
+      "source_url": "https://www.benzinga.com/news/26/01/50180876/anthropic-hikes-2026-revenue-forecast-20-but-delays-when-it-will-go-cash-flow-positive-the-informati",
+      "startX": 12,
+      "startY": 8,
+      "direction": "horizontal",
+      "length": 8
+    },
+    {
+      "word": "FINAL",
+      "clue": "The last event before sales begin.",
+      "definition": "Coming at the end of a series of actions or events; ultimate.",
+      "source_url": "https://www.benzinga.com/news/26/01/50180983/reported-earlier-faraday-future-announces-robot-vehicle-eai-robotics-final-launch-event-in-las-vegas",
+      "startX": 17,
+      "startY": 5,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "MARKET",
+      "clue": "Where S&P 500 sentiment improves.",
+      "definition": "A regular gathering of people for the buying and selling of provisions, livestock, or other commodities.",
+      "source_url": "https://www.benzinga.com/markets/equities/26/01/50180864/sp-500-hits-record-high-ahead-of-key-earnings-interest-rate-decision-investor-sentiment-improves-fear-index-in-greed-zone",
+      "startX": 19,
+      "startY": 3,
+      "direction": "vertical",
+      "length": 6
+    },
+    {
+      "word": "VEHICLE",
+      "clue": "Means of transport in Las Vegas, often electric (7 letters).",
+      "definition": "A thing used for transporting people or goods on land, such as a car, truck, or bus.",
+      "source_url": "https://www.benzinga.com/news/26/01/50180983/reported-earlier-faraday-future-announces-robot-vehicle-eai-robotics-final-launch-event-in-las-vegas",
+      "startX": 12,
+      "startY": 15,
+      "direction": "vertical",
+      "length": 7
+    },
+    {
+      "word": "ROBOT",
+      "clue": "Faraday Future's autonomous machine, 5 letters.",
+      "definition": "A machine capable of carrying out a complex series of actions automatically, especially one programmable by computer.",
+      "source_url": "https://www.benzinga.com/news/26/01/50180983/reported-earlier-faraday-future-announces-robot-vehicle-eai-robotics-final-launch-event-in-las-vegas",
+      "startX": 19,
+      "startY": 5,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "REVENUE",
+      "clue": "Anthropic hikes its expected sales figures for 2026.",
+      "definition": "The total money generated by a company from its normal business operations.",
+      "source_url": "https://www.benzinga.com/news/26/01/50180876/anthropic-hikes-2026-revenue-forecast-20-but-delays-when-it-will-go-cash-flow-positive-the-informati",
+      "startX": 11,
+      "startY": 21,
+      "direction": "horizontal",
+      "length": 7
+    },
+    {
+      "word": "GROWTH",
+      "clue": "Runway Finance\u2019s expanding potential.",
+      "definition": "The process of increasing in physical size, maturity, or complexity; expansion.",
+      "source_url": "https://www.benzinga.com/news/26/01/50181010/reported-earlier-runway-growth-finance-corp-prices-100m-offering-of-7-25-notes-due-2031-with-net-pro",
+      "startX": 22,
+      "startY": 3,
+      "direction": "vertical",
+      "length": 6
+    },
+    {
+      "word": "RECORD",
+      "clue": "S&P 500 hits a new highest level.",
+      "definition": "The best performance or highest achievement officially measured and noted.",
+      "source_url": "https://www.benzinga.com/markets/equities/26/01/50180864/sp-500-hits-record-high-ahead-of-key-earnings-interest-rate-decision-investor-sentiment-improves-fear-index-in-greed-zone",
+      "startX": 17,
+      "startY": 20,
+      "direction": "vertical",
+      "length": 6
+    },
+    {
+      "word": "NOTES",
+      "clue": "I.O.U. bonds issued in 2031, perhaps?",
+      "definition": "Formal acknowledgments of obligation to pay an amount, usually with interest, often issued by a corporation or government.",
+      "source_url": "https://www.benzinga.com/news/26/01/50181010/reported-earlier-runway-growth-finance-corp-prices-100m-offering-of-7-25-notes-due-2031-with-net-pro",
+      "startX": 16,
+      "startY": 23,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "INCOME",
+      "clue": "$84,000 is the median amount earned annually.",
+      "definition": "Money received, especially on a regular basis, for work or through investments.",
+      "source_url": "https://www.benzinga.com/news/politics/26/01/50180960/anthony-scaramucci-says-you-need-131000-for-basic-stability-in-us-while-median-income-is-84000-is-this-how-we-want-people-to-live",
+      "startX": 15,
+      "startY": 3,
+      "direction": "horizontal",
+      "length": 6
+    },
+    {
+      "word": "GROUP",
+      "clue": "The Carlyle ____ and GIC were affiliated with the secondary offering.",
+      "definition": "A number of persons or things gathered or located together.",
+      "source_url": "https://www.benzinga.com/news/26/01/50180995/reported-earlier-standardaero-announces-pricing-of-secondary-offering-of-50m-common-shares-at-31-00",
+      "startX": 9,
+      "startY": 6,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "BASIC",
+      "clue": "Scaramucci defined this level of stability as needing $131,000.",
+      "definition": "Forming an essential foundation or starting point; fundamental.",
+      "source_url": "https://www.benzinga.com/news/politics/26/01/50180960/anthony-scaramucci-says-you-need-131000-for-basic-stability-in-us-while-median-income-is-84000-is-this-how-we-want-people-to-live",
+      "startX": 15,
       "startY": 0,
       "direction": "vertical",
       "length": 5
+    },
+    {
+      "word": "CASH",
+      "clue": "Necessary for positive flow, but Anthropic delays achieving it.",
+      "definition": "Money in the form of coins or banknotes, especially that which is immediately available.",
+      "source_url": "https://www.benzinga.com/news/26/01/50180876/anthropic-hikes-2026-revenue-forecast-20-but-delays-when-it-will-go-cash-flow-positive-the-informati",
+      "startX": 20,
+      "startY": 21,
+      "direction": "vertical",
+      "length": 4
+    },
+    {
+      "word": "LAUNCH",
+      "clue": "An event marking the beginning of sales for a new product.",
+      "definition": "To start or set in motion an activity, project, or enterprise.",
+      "source_url": "https://www.benzinga.com/news/26/01/50180983/reported-earlier-faraday-future-announces-robot-vehicle-eai-robotics-final-launch-event-in-las-vegas",
+      "startX": 3,
+      "startY": 5,
+      "direction": "vertical",
+      "length": 6
     }
   ],
-  "generated_at_utc": "2026-01-27T08:28:50.559160",
-  "title": "Daily News Crossword: 2026-01-27"
+  "generated_at_utc": "2026-01-28T08:27:45.560057",
+  "title": "Daily News Crossword: 2026-01-28"
 }
