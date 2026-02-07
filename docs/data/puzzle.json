@@ -1,258 +1,258 @@
 {
-  "width": 27,
-  "height": 22,
+  "width": 20,
+  "height": 25,
   "words": [
     {
-      "word": "CONTRACT",
-      "clue": "Union pact covers four years (8)",
-      "definition": "A formal, legally binding written or spoken agreement, especially one concerning employment, sales, or tenancy.",
-      "source_url": "https://www.benzinga.com/news/26/02/50438615/reported-earlier-united-steelworkers-local-1123-and-metallus-reach-mutually-beneficial-four-year-con",
+      "word": "ARRESTED",
+      "clue": "Action taken by the Secret Service against the Ohio man.",
+      "definition": "Seized by legal authority and taken into custody.",
+      "source_url": "https://www.benzinga.com/news/politics/26/02/50466925/man-accused-of-threatening-to-assassinate-jd-vance-arrested-by-secret-service-faces-multiple-federal-charges",
       "startX": 9,
-      "startY": 5,
+      "startY": 14,
       "direction": "horizontal",
       "length": 8
     },
     {
-      "word": "ENERGY",
-      "clue": "LG's solution involves power (6)",
-      "definition": "The capacity for vigorous activity; usable heat or power.",
-      "source_url": "https://www.benzinga.com/news/26/02/50438272/lg-energy-solution-to-acquire-full-ownership-of-nextstar-energy-as-stellantis-sells-49-stake",
-      "startX": 11,
-      "startY": 4,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "WAGES",
-      "clue": "Improved compensation for Steelworkers (5)",
-      "definition": "Payments of money, usually made on an hourly, daily, or weekly basis, to employees.",
-      "source_url": "https://www.benzinga.com/news/26/02/50438615/reported-earlier-united-steelworkers-local-1123-and-metallus-reach-mutually-beneficial-four-year-con",
-      "startX": 14,
-      "startY": 4,
-      "direction": "vertical",
-      "length": 5
-    },
-    {
-      "word": "STOCKS",
-      "clue": "Equities tumbling almost 600 points (6)",
-      "definition": "Goods or capital kept on the premises of a business or warehouse and available for sale or distribution.",
-      "source_url": "https://www.benzinga.com/markets/equities/26/02/50438463/dow-tumbles-almost-600-amid-earnings-investor-sentiment-declines-further-greed-index-remains-in-fear-zone",
-      "startX": 14,
-      "startY": 8,
-      "direction": "horizontal",
-      "length": 6
-    },
-    {
-      "word": "ACQUIRE",
-      "clue": "Yimutian attempts to obtain the oil producer (7)",
-      "definition": "To gain possession of something; to get or attain.",
-      "source_url": "https://www.benzinga.com/news/26/02/50438624/reported-earlier-yimutian-enters-preliminary-deal-to-acquire-premium-camellia-oil-producer-jiufeng-a",
-      "startX": 6,
-      "startY": 7,
-      "direction": "horizontal",
-      "length": 7
-    },
-    {
-      "word": "MONTHLY",
-      "clue": "A payment schedule occurring 12 times per year (7)",
-      "definition": "Occurring, produced, or calculated once every four weeks or every calendar period.",
-      "source_url": "https://www.benzinga.com/news/26/02/50438594/affirm-teams-up-with-virgin-media-o2-to-offer-upfront-and-honest-monthly-payment-plans-for-phones-he",
+      "word": "OWNED",
+      "clue": "Microsoft's state in the AI competition, according to SemiAnalysis.",
+      "definition": "Held as property; dominated or defeated convincingly.",
+      "source_url": "https://www.benzinga.com/markets/tech/26/02/50467117/semianalysis-president-says-microsoft-is-getting-owned-in-ai-race-praises-aws-scale",
       "startX": 16,
-      "startY": 7,
-      "direction": "vertical",
-      "length": 7
-    },
-    {
-      "word": "JARGON",
-      "clue": "Nonsense often found in a reactor analysis (6)",
-      "definition": "Special words or expressions used by a particular profession or group that are difficult for others to understand.",
-      "source_url": "https://www.benzinga.com/crypto/cryptocurrency/26/02/50438663/short-seller-andrew-left-blasts-michael-saylors-bitcoin-reactor-as-q4-losses-mount-more-jargon-more-nonsense",
-      "startX": 6,
-      "startY": 6,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "FEAR",
-      "clue": "Greed Index sentiment remains in this zone (4)",
-      "definition": "An unpleasant emotion caused by the belief that someone or something is dangerous, likely to cause pain, or a threat.",
-      "source_url": "https://www.benzinga.com/markets/equities/26/02/50438463/dow-tumbles-almost-600-amid-earnings-investor-sentiment-declines-further-greed-index-remains-in-fear-zone",
-      "startX": 3,
-      "startY": 8,
-      "direction": "horizontal",
-      "length": 4
-    },
-    {
-      "word": "SHARES",
-      "clue": "Common portions offered at $18.00 initially (6)",
-      "definition": "Units of equity ownership in a corporation or company.",
-      "source_url": "https://www.benzinga.com/news/26/02/50438673/reported-earlier-once-upon-a-farm-prices-initial-public-offering-of-10-997-209-common-shares-at-18-0",
-      "startX": 19,
-      "startY": 3,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "LOSSES",
-      "clue": "Saylor's Q4 mounting deficits (6)",
-      "definition": "The facts or processes of being deprived of something previously possessed.",
-      "source_url": "https://www.benzinga.com/crypto/cryptocurrency/26/02/50438663/short-seller-andrew-left-blasts-michael-saylors-bitcoin-reactor-as-q4-losses-mount-more-jargon-more-nonsense",
-      "startX": 16,
-      "startY": 12,
-      "direction": "horizontal",
-      "length": 6
-    },
-    {
-      "word": "MASSIVE",
-      "clue": "Amazon's surprisingly large AI spending (7)",
-      "definition": "Exceptionally large, heavy, or significant.",
-      "source_url": "https://www.benzinga.com/markets/tech/26/02/50438236/amazon-defends-massive-ai-spending-says-new-aws-capacity-being-monetized-quickly-andy-jassy-sees-very-unusual-opportunity",
-      "startX": 17,
-      "startY": 3,
-      "direction": "horizontal",
-      "length": 7
-    },
-    {
-      "word": "BITCOIN",
-      "clue": "The world's largest cryptocurrency (7)",
-      "definition": "A type of digital currency in which transactions are recorded on a decentralized public ledger.",
-      "source_url": "https://www.benzinga.com/markets/prediction-markets/26/02/50438397/how-low-can-bitcoin-fall-this-month-prediction-markets-see-btc-touching-a-level-which-michael-burry-says-will-make-miners-bankrupt",
-      "startX": 0,
-      "startY": 11,
-      "direction": "horizontal",
-      "length": 7
-    },
-    {
-      "word": "REVENUE",
-      "clue": "Stellantis forecasts growth in total income (7)",
-      "definition": "Income, especially when of a company or organization and of a substantial nature.",
-      "source_url": "https://www.benzinga.com/news/26/02/50438205/stellantis-initiates-preliminary-2026-guidance-forecasting-mid-single-digit-net-revenue-growth-low-s",
-      "startX": 4,
-      "startY": 2,
-      "direction": "vertical",
-      "length": 7
-    },
-    {
-      "word": "STAKE",
-      "clue": "Stellantis sells a 49% interest (5)",
-      "definition": "A financial interest, investment, or proportion in a business or enterprise.",
-      "source_url": "https://www.benzinga.com/news/26/02/50438272/lg-energy-solution-to-acquire-full-ownership-of-nextstar-energy-as-stellantis-sells-49-stake",
-      "startX": 21,
-      "startY": 12,
+      "startY": 10,
       "direction": "vertical",
       "length": 5
     },
     {
-      "word": "SAVINGS",
-      "clue": "Up to 85% reduced cost benefit (7)",
-      "definition": "Money one has stored or accumulated, especially through an organized effort to reduce expenditures.",
-      "source_url": "https://www.benzinga.com/news/26/02/50438647/reported-earlier-pfizer-launches-trumprx-cost-savings-program-offering-discounts-on-30-brand-medicin",
-      "startX": 20,
-      "startY": 14,
-      "direction": "horizontal",
-      "length": 7
-    },
-    {
-      "word": "HONEST",
-      "clue": "Affirm's forthright approach to monthly plans (6)",
-      "definition": "Free of deceit and untruthfulness; sincere.",
-      "source_url": "https://www.benzinga.com/news/26/02/50438594/affirm-teams-up-with-virgin-media-o2-to-offer-upfront-and-honest-monthly-payment-plans-for-phones-he",
-      "startX": 23,
-      "startY": 0,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "MINERS",
-      "clue": "Those processing BTC transactions, who Burry claims will go bust (6)",
-      "definition": "Individuals or operations engaged in extracting valuable materials or data.",
-      "source_url": "https://www.benzinga.com/markets/prediction-markets/26/02/50438397/how-low-can-bitcoin-fall-this-month-prediction-markets-see-btc-touching-a-level-which-michael-burry-says-will-make-miners-bankrupt",
-      "startX": 18,
-      "startY": 16,
-      "direction": "horizontal",
-      "length": 6
-    },
-    {
-      "word": "PFIZER",
-      "clue": "Pharma giant involved in the TrumpRx partnership (6)",
-      "definition": "An international pharmaceutical corporation that discovers, develops, and manufactures healthcare products.",
-      "source_url": "https://www.benzinga.com/news/26/02/50438647/reported-earlier-pfizer-launches-trumprx-cost-savings-program-offering-discounts-on-30-brand-medicin",
-      "startX": 21,
-      "startY": 1,
-      "direction": "vertical",
-      "length": 6
-    },
-    {
-      "word": "DIGITAL",
-      "clue": "B2B agriculture goes electronic (7)",
-      "definition": "Relating to, or constituting data in the form of numerical digits, especially as processed or stored by a computer.",
-      "source_url": "https://www.benzinga.com/news/26/02/50438624/reported-earlier-yimutian-enters-preliminary-deal-to-acquire-premium-camellia-oil-producer-jiufeng-a",
-      "startX": 19,
-      "startY": 15,
-      "direction": "vertical",
-      "length": 7
-    },
-    {
-      "word": "DEMAND",
-      "clue": "Strong AWS need underpins confidence (6)",
-      "definition": "A firm request for something considered due; the desire of consumers for a particular item or service.",
-      "source_url": "https://www.benzinga.com/markets/tech/26/02/50438236/amazon-defends-massive-ai-spending-says-new-aws-capacity-being-monetized-quickly-andy-jassy-sees-very-unusual-opportunity",
-      "startX": 3,
-      "startY": 3,
-      "direction": "horizontal",
-      "length": 6
-    },
-    {
-      "word": "WARNS",
-      "clue": "Senator Markey alerts the public to a danger (5)",
-      "definition": "To inform someone about a potential danger or problem.",
-      "source_url": "https://www.benzinga.com/markets/tech/26/02/50438471/senator-ed-markey-warns-waymo-is-using-people-8000-miles-away-to-help-guide-self-driving-cars-this-should-scare-us-all",
-      "startX": 18,
-      "startY": 20,
-      "direction": "horizontal",
-      "length": 5
-    },
-    {
-      "word": "PRICES",
-      "clue": "Sets the cost for the IPO, or pays a penalty (6)",
-      "definition": "The amounts of money expected, required, or given in payment for something.",
-      "source_url": "https://www.benzinga.com/news/26/02/50438673/reported-earlier-once-upon-a-farm-prices-initial-public-offering-of-10-997-209-common-shares-at-18-0",
-      "startX": 26,
+      "word": "DOUBLE",
+      "clue": "Two times the normal amount offered to engineers.",
+      "definition": "Consisting of two corresponding parts or members; twice as much or many.",
+      "source_url": "https://www.benzinga.com/markets/tech/26/02/50467126/musk-says-apple-once-carpet-bombed-tesla-engineers-with-recruiting-calls-offering-double-pay-during-now-scrapped-ev-program",
+      "startX": 12,
       "startY": 9,
       "direction": "vertical",
       "length": 6
     },
     {
-      "word": "TUMBLE",
-      "clue": "Dow's big fall (6)",
-      "definition": "To fall suddenly, clumsily, or headlong.",
-      "source_url": "https://www.benzinga.com/markets/equities/26/02/50438463/dow-tumbles-almost-600-amid-earnings-investor-sentiment-declines-further-greed-index-remains-in-fear-zone",
-      "startX": 2,
-      "startY": 11,
-      "direction": "vertical",
-      "length": 6
+      "word": "ACCUSED",
+      "clue": "Allegedly threatened to kill JD Vance.",
+      "definition": "Charged with an offense or crime.",
+      "source_url": "https://www.benzinga.com/news/politics/26/02/50466925/man-accused-of-threatening-to-assassinate-jd-vance-arrested-by-secret-service-faces-multiple-federal-charges",
+      "startX": 6,
+      "startY": 9,
+      "direction": "horizontal",
+      "length": 7
     },
     {
-      "word": "GUIDE",
-      "clue": "Remote workers offer directions to the self-driving car (5)",
-      "definition": "A person or thing that shows the way, especially to someone unfamiliar with the route.",
-      "source_url": "https://www.benzinga.com/markets/tech/26/02/50438471/senator-ed-markey-warns-waymo-is-using-people-8000-miles-away-to-help-guide-self-driving-cars-this-should-scare-us-all",
-      "startX": 25,
-      "startY": 14,
+      "word": "VIOLENCE",
+      "clue": "Rising concern regarding political aggression.",
+      "definition": "Behavior involving physical force intended to hurt, damage, or kill someone or something.",
+      "source_url": "https://www.benzinga.com/news/politics/26/02/50466925/man-accused-of-threatening-to-assassinate-jd-vance-arrested-by-secret-service-faces-multiple-federal-charges",
+      "startX": 7,
+      "startY": 3,
+      "direction": "vertical",
+      "length": 8
+    },
+    {
+      "word": "FEDERAL",
+      "clue": "National level of government regarding charges.",
+      "definition": "Relating to or denoting the central government of a country, as opposed to the governments of component states.",
+      "source_url": "https://www.benzinga.com/news/politics/26/02/50466925/man-accused-of-threatening-to-assassinate-jd-vance-arrested-by-secret-service-faces-multiple-federal-charges",
+      "startX": 1,
+      "startY": 6,
+      "direction": "horizontal",
+      "length": 7
+    },
+    {
+      "word": "GAMES",
+      "clue": "Contests played by the league seeking new streaming partners.",
+      "definition": "Activities engaged in for diversion or recreation, often involving competition and rules.",
+      "source_url": "https://www.benzinga.com/markets/tech/26/02/50467099/nfl-may-sell-live-games-to-streaming-platforms-after-100-million-youtube-deal-raising-stakes-for-disney-nbc-and-traditional-partners",
+      "startX": 4,
+      "startY": 3,
       "direction": "vertical",
       "length": 5
     },
     {
-      "word": "ACCURATE",
-      "clue": "Correct or precise analysis by forecasters (8)",
-      "definition": "Free from error or defect; conforming exactly to truth or to a standard.",
-      "source_url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/02/50438440/aercap-likely-to-report-higher-q4-earnings-these-most-accurate-analysts-revise-forecasts-ahead-of-earnings-call",
-      "startX": 9,
-      "startY": 4,
+      "word": "SCALE",
+      "clue": "AWS is praised for its immense magnitude.",
+      "definition": "The size or magnitude of something, often requiring specialized equipment or facilities.",
+      "source_url": "https://www.benzinga.com/markets/tech/26/02/50467117/semianalysis-president-says-microsoft-is-getting-owned-in-ai-race-praises-aws-scale",
+      "startX": 11,
+      "startY": 5,
       "direction": "vertical",
-      "length": 8
+      "length": 5
+    },
+    {
+      "word": "TESLA",
+      "clue": "Electric car maker raided by the fruit company.",
+      "definition": "An automotive and energy company specializing in electric vehicles and solar power products.",
+      "source_url": "https://www.benzinga.com/markets/tech/26/02/50467126/musk-says-apple-once-carpet-bombed-tesla-engineers-with-recruiting-calls-offering-double-pay-during-now-scrapped-ev-program",
+      "startX": 0,
+      "startY": 4,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "PRAISES",
+      "clue": "Verb indicating high regard for AWS execution.",
+      "definition": "Expressing favorable judgment of or admiration for the quality of something.",
+      "source_url": "https://www.benzinga.com/markets/tech/26/02/50467117/semianalysis-president-says-microsoft-is-getting-owned-in-ai-race-praises-aws-scale",
+      "startX": 10,
+      "startY": 13,
+      "direction": "vertical",
+      "length": 7
+    },
+    {
+      "word": "SAYS",
+      "clue": "What Musk or a President articulates.",
+      "definition": "Utters words to convey information, requests, feelings, or instructions.",
+      "source_url": "https://www.benzinga.com/markets/tech/26/02/50467117/semianalysis-president-says-microsoft-is-getting-owned-in-ai-race-praises-aws-scale",
+      "startX": 11,
+      "startY": 5,
+      "direction": "horizontal",
+      "length": 4
+    },
+    {
+      "word": "CALLS",
+      "clue": "Recruiting attempts made by phone.",
+      "definition": "Audible sounds made by the voice, often to summon someone or communicate remotely.",
+      "source_url": "https://www.benzinga.com/markets/tech/26/02/50467126/musk-says-apple-once-carpet-bombed-tesla-engineers-with-recruiting-calls-offering-double-pay-during-now-scrapped-ev-program",
+      "startX": 14,
+      "startY": 1,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "SELL",
+      "clue": "Action taken by the football league regarding rights.",
+      "definition": "Give or hand over something in exchange for money.",
+      "source_url": "https://www.benzinga.com/markets/tech/26/02/50467099/nfl-may-sell-live-games-to-streaming-platforms-after-100-million-youtube-deal-raising-stakes-for-disney-nbc-and-traditional-partners",
+      "startX": 11,
+      "startY": 3,
+      "direction": "horizontal",
+      "length": 4
+    },
+    {
+      "word": "VALLEY",
+      "clue": "Location of Silicon's competitive terrain.",
+      "definition": "A low area of land between hills or mountains, typically with a river or stream flowing through it.",
+      "source_url": "https://www.benzinga.com/markets/tech/26/02/50467126/musk-says-apple-once-carpet-bombed-tesla-engineers-with-recruiting-calls-offering-double-pay-during-now-scrapped-ev-program",
+      "startX": 6,
+      "startY": 18,
+      "direction": "horizontal",
+      "length": 6
+    },
+    {
+      "word": "PRISON",
+      "clue": "Institution where the accused could face decades.",
+      "definition": "A building where people are legally held as a punishment for a crime they have committed or while awaiting trial.",
+      "source_url": "https://www.benzinga.com/news/politics/26/02/50466925/man-accused-of-threatening-to-assassinate-jd-vance-arrested-by-secret-service-faces-multiple-federal-charges",
+      "startX": 8,
+      "startY": 16,
+      "direction": "horizontal",
+      "length": 6
+    },
+    {
+      "word": "TALENT",
+      "clue": "Fierce war fought over this Silicon Valley resource.",
+      "definition": "Natural aptitude or skill.",
+      "source_url": "https://www.benzinga.com/markets/tech/26/02/50467126/musk-says-apple-once-carpet-bombed-tesla-engineers-with-recruiting-calls-offering-double-pay-during-now-scrapped-ev-program",
+      "startX": 10,
+      "startY": 7,
+      "direction": "horizontal",
+      "length": 6
+    },
+    {
+      "word": "POACH",
+      "clue": "Trying to steal engineers by offering high salaries.",
+      "definition": "To take or lure away employees from a competitor.",
+      "source_url": "https://www.benzinga.com/markets/tech/26/02/50467126/musk-says-apple-once-carpet-bombed-tesla-engineers-with-recruiting-calls-offering-double-pay-during-now-scrapped-ev-program",
+      "startX": 15,
+      "startY": 10,
+      "direction": "horizontal",
+      "length": 5
+    },
+    {
+      "word": "NFL",
+      "clue": "League that may stream its football matches. (3 letters)",
+      "definition": "A professional American football organization.",
+      "source_url": "https://www.benzinga.com/markets/tech/26/02/50467099/nfl-may-sell-live-games-to-streaming-platforms-after-100-million-youtube-deal-raising-stakes-for-disney-nbc-and-traditional-partners",
+      "startX": 14,
+      "startY": 7,
+      "direction": "vertical",
+      "length": 3
+    },
+    {
+      "word": "LIVE",
+      "clue": "Broadcast as it happens, like a football match.",
+      "definition": "Operating or running in real time; currently existing or taking place.",
+      "source_url": "https://www.benzinga.com/markets/tech/26/02/50467099/nfl-may-sell-live-games-to-streaming-platforms-after-100-million-youtube-deal-raising-stakes-for-disney-nbc-and-traditional-partners",
+      "startX": 8,
+      "startY": 18,
+      "direction": "vertical",
+      "length": 4
+    },
+    {
+      "word": "SERVICE",
+      "clue": "Secret agency protecting VIPs.",
+      "definition": "The action of helping or doing work for someone.",
+      "source_url": "https://www.benzinga.com/news/politics/26/02/50466925/man-accused-of-threatening-to-assassinate-jd-vance-arrested-by-secret-service-faces-multiple-federal-charges",
+      "startX": 2,
+      "startY": 21,
+      "direction": "horizontal",
+      "length": 7
+    },
+    {
+      "word": "MEDIA",
+      "clue": "Platforms like streaming services or traditional broadcast.",
+      "definition": "The main means of mass communication regarded collectively, such as television, radio, and newspapers.",
+      "source_url": "https://www.benzinga.com/markets/tech/26/02/50467099/nfl-may-sell-live-games-to-streaming-platforms-after-100-million-youtube-deal-raising-stakes-for-disney-nbc-and-traditional-partners",
+      "startX": 3,
+      "startY": 20,
+      "direction": "vertical",
+      "length": 5
+    },
+    {
+      "word": "RIGHTS",
+      "clue": "Negotiated permissions for broadcasting.",
+      "definition": "Moral or legal entitlements to have or obtain something, or to act in a certain way.",
+      "source_url": "https://www.benzinga.com/markets/tech/26/02/50467099/nfl-may-sell-live-games-to-streaming-platforms-after-100-million-youtube-deal-raising-stakes-for-disney-nbc-and-traditional-partners",
+      "startX": 19,
+      "startY": 7,
+      "direction": "vertical",
+      "length": 6
+    },
+    {
+      "word": "DEAL",
+      "clue": "YouTube made a $100 million agreement.",
+      "definition": "An agreement entered into by two or more parties for mutual benefit.",
+      "source_url": "https://www.benzinga.com/markets/tech/26/02/50467099/nfl-may-sell-live-games-to-streaming-platforms-after-100-million-youtube-deal-raising-stakes-for-disney-nbc-and-traditional-partners",
+      "startX": 1,
+      "startY": 24,
+      "direction": "horizontal",
+      "length": 4
+    },
+    {
+      "word": "RACE",
+      "clue": "High-speed AI competition.",
+      "definition": "A competition between individuals or teams to see who can finish first or achieve a goal fastest.",
+      "source_url": "https://www.benzinga.com/markets/tech/26/02/50467117/semianalysis-president-says-microsoft-is-getting-owned-in-ai-race-praises-aws-scale",
+      "startX": 12,
+      "startY": 0,
+      "direction": "vertical",
+      "length": 4
+    },
+    {
+      "word": "APPLE",
+      "clue": "Fruit company that tried to bomb engineers for cars.",
+      "definition": "A common, round fruit produced by a tree often cultivated in temperate regions.",
+      "source_url": "https://www.benzinga.com/markets/tech/26/02/50467126/musk-says-apple-once-carpet-bombed-tesla-engineers-with-recruiting-calls-offering-double-pay-during-now-scrapped-ev-program",
+      "startX": 1,
+      "startY": 0,
+      "direction": "vertical",
+      "length": 5
     }
   ],
-  "generated_at_utc": "2026-02-06T08:37:27.988282",
-  "title": "Daily News Crossword: 2026-02-06"
+  "generated_at_utc": "2026-02-07T08:27:18.164574",
+  "title": "Daily News Crossword: 2026-02-07"
 }
